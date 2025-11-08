@@ -1,0 +1,56 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:OPSD:name
+Airports:OPSD:symbol
+Free Text:OPSD Ground Freetext\A:freetext
+Free Text:OPSD Ground Freetext\C:freetext
+Free Text:OPSD Ground Freetext\CONSTRUCTION IN PROGRESS:freetext
+Free Text:OPSD Ground Freetext\MILITARY APRON:freetext
+Free Text:OPSD Ground Freetext\PAF HANGARS:freetext
+Free Text:OPSD Ground Freetext\PAF HANGARS:freetext
+Free Text:OPSD Ground Freetext\STAND:freetext
+Geo:OPSD Groundlayout Geo Data:
+Regions:OPSD Ground Polygons:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:304.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:35.321986:75.505614:35.352945:75.572975
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Pakistan vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OPSD
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1918
+PLUGIN:vSMR:SRW1BottomRightY:318
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-2
+PLUGIN:vSMR:SRW1OffsetY:-11
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1617
+PLUGIN:vSMR:SRW1TopLeftY:60
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

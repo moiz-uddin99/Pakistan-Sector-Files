@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:<Initials>_OBS:200:0
+ATIS2:Pakistan vACC Observer.
+ATIS3:
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback 
+PROFILE:OPLA_GND:20:2
+ATIS2:"Lahore Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback 
+PROFILE:OPLA_TWR:50:4
+ATIS2:"Lahore Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback 
+PROFILE:Select_Callsign_Here------>:50:0
+ATIS2:Select Your Callsign From The Dropdown Menu.
+ATIS3:DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback 
+END

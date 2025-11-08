@@ -1,0 +1,122 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPKC:name
+Airports:OPKC:symbol
+ARTCC boundary:OPKR C ACC:
+ARTCC boundary:OPKR E ACC:
+ARTCC boundary:OPKR S ACC:
+ARTCC boundary:OPKR W ACC:
+ARTCC low boundary:OPKC CTA:
+ARTCC low boundary:OPKC TMA:
+ARTCC low boundary:OPKC TWR:
+Fixes:AMJID:name
+Fixes:AMJID:symbol
+Fixes:ANRIM:name
+Fixes:ANRIM:symbol
+Fixes:BADUL:name
+Fixes:BADUL:symbol
+Fixes:CHORE:name
+Fixes:CHORE:symbol
+Fixes:DANGI:name
+Fixes:DANGI:symbol
+Fixes:DOSTI:name
+Fixes:DOSTI:symbol
+Fixes:KAJAL:name
+Fixes:KAJAL:symbol
+Fixes:KC504:name
+Fixes:KC504:symbol
+Fixes:LAKIV:name
+Fixes:LAKIV:symbol
+Fixes:LOTAT:name
+Fixes:LOTAT:symbol
+Fixes:MAKLI:name
+Fixes:MAKLI:symbol
+Fixes:MELOM:name
+Fixes:MELOM:symbol
+Fixes:NIROL:name
+Fixes:NIROL:symbol
+Fixes:PUNAM:name
+Fixes:PUNAM:symbol
+Fixes:SABEN:name
+Fixes:SABEN:symbol
+Fixes:SAPNA:name
+Fixes:SAPNA:symbol
+Fixes:TELEM:name
+Fixes:TELEM:symbol
+Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
+Geo:OPKC MRVA:
+Geo:OPKR Landmark Coastline:
+NDBs:NH:name
+NDBs:NH:symbol
+Runways:OPKC 07R-25L:centerline
+Runways:OPKC 07R-25L:extended centerline 1
+Runways:OPKC 07R-25L:extended centerline 1 left base
+Runways:OPKC 07R-25L:extended centerline 1 left ticks
+Runways:OPKC 07R-25L:extended centerline 1 left vectoring
+Runways:OPKC 07R-25L:extended centerline 1 right base
+Runways:OPKC 07R-25L:extended centerline 1 right ticks
+Runways:OPKC 07R-25L:extended centerline 1 right vectoring
+Runways:OPKC 07R-25L:extended centerline 2
+Runways:OPKC 07R-25L:extended centerline 2 left base
+Runways:OPKC 07R-25L:extended centerline 2 left ticks
+Runways:OPKC 07R-25L:extended centerline 2 left vectoring
+Runways:OPKC 07R-25L:extended centerline 2 right base
+Runways:OPKC 07R-25L:extended centerline 2 right ticks
+Runways:OPKC 07R-25L:extended centerline 2 right vectoring
+Runways:OPKC 07R-25L:name
+Stars:OPKC RNP07R:
+Stars:OPKC RNP07R ANRIM:
+Stars:OPKC RNP07R GUMIL:
+Stars:OPKC RNP07R KETIT:
+Stars:OPKC RNP07R MAKLI:
+Stars:OPKC RNP07R NOMUS:
+Stars:OPKC RNP07R VIRUK:
+Stars:OPKC STAR 25L CHORE1B:
+Stars:OPKC STAR 25L DOSTI1D:
+Stars:OPKC STAR 25L DOSTI1E:
+Stars:OPKC STAR 25L LAKIV1B:
+Stars:OPKC STAR 25L LAKIV1C:
+Stars:OPKC STAR 25L NH1C:
+Stars:OPKC STAR 25L SAPNA1:
+Stars:OPKC STAR ALL DOSTI2A:
+Stars:OPKC STAR ALL DOSTI2B:
+Stars:OPKC STAR ALL DOSTI2C:
+Stars:OPKC STAR ALL KE1A:
+Stars:OPKC STAR ALL LAKIV2A:
+Stars:OPKC STAR ALL LOTAT2A:
+Stars:OPKC STAR ALL LOTAT2B:
+Stars:OPKC STAR ALL MINAR2:
+Stars:OPKC STAR ALL NH2A:
+Stars:OPKC STAR ALL NH2B:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan
+WINDOWAREA:22.735330:62.273350:28.220055:73.016190
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0

@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC low boundary:OPKC CTA:
+ARTCC low boundary:OPKC TWR:
+Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
+Geo:OPKC MRVA:
+Runways:OPKC 07R-25L:centerline
+Runways:OPKC 07R-25L:extended centerline 1
+Runways:OPKC 07R-25L:extended centerline 1 left ticks
+Runways:OPKC 07R-25L:extended centerline 1 right ticks
+Runways:OPKC 07R-25L:extended centerline 2
+Runways:OPKC 07R-25L:extended centerline 2 left ticks
+Runways:OPKC 07R-25L:extended centerline 2 right ticks
+Runways:OPKC 07R-25L:name
+VORs:KC:frequency
+VORs:KC:name
+VORs:KC:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:24.694306:66.700912:25.144818:67.681153

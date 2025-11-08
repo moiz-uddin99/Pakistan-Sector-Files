@@ -1,0 +1,146 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPBN:name
+Airports:OPBN:symbol
+Airports:OPPS:name
+Airports:OPPS:symbol
+Airports:OPSS:name
+Airports:OPSS:symbol
+Airports:OPTA:name
+Airports:OPTA:symbol
+ARTCC boundary:ISB ACC:
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
+ARTCC low boundary:CHERAT N TMA:
+ARTCC low boundary:CHERAT S TMA:
+Fixes:BELKO:name
+Fixes:BELKO:symbol
+Fixes:FATEH:name
+Fixes:FATEH:symbol
+Fixes:HANGU:name
+Fixes:HANGU:symbol
+Fixes:KALMI:name
+Fixes:KALMI:symbol
+Fixes:LERNO:name
+Fixes:LERNO:symbol
+Fixes:MILOT:name
+Fixes:MILOT:symbol
+Fixes:NONIB:name
+Fixes:NONIB:symbol
+Fixes:PAKTA:name
+Fixes:PAKTA:symbol
+Fixes:PS401:name
+Fixes:PS401:symbol
+Fixes:PS500:name
+Fixes:PS500:symbol
+Fixes:PS501:name
+Fixes:PS501:symbol
+Fixes:PS502:name
+Fixes:PS502:symbol
+Fixes:PS503:name
+Fixes:PS503:symbol
+Fixes:PS504:name
+Fixes:PS504:symbol
+Fixes:PS601:name
+Fixes:PS601:symbol
+Fixes:PS602:name
+Fixes:PS602:symbol
+Fixes:PS603:name
+Fixes:PS603:symbol
+Fixes:PS605:name
+Fixes:PS605:symbol
+Fixes:TOMON:name
+Fixes:TOMON:symbol
+Free Text:OPPS Minimum Safe Altitudes\MSA 10400:freetext
+Free Text:OPPS Minimum Safe Altitudes\MSA 8000:freetext
+Geo:OPPS MRVA:
+NDBs:BN:frequency
+NDBs:BN:name
+NDBs:BN:symbol
+NDBs:PS:frequency
+NDBs:PS:name
+NDBs:PS:symbol
+NDBs:SS:frequency
+NDBs:SS:name
+NDBs:SS:symbol
+Runways:OPBN 07-25:centerline
+Runways:OPBN 07-25:extended centerline 1
+Runways:OPBN 07-25:extended centerline 1 left base
+Runways:OPBN 07-25:extended centerline 1 left ticks
+Runways:OPBN 07-25:extended centerline 1 left vectoring
+Runways:OPBN 07-25:extended centerline 1 right base
+Runways:OPBN 07-25:extended centerline 1 right ticks
+Runways:OPBN 07-25:extended centerline 1 right vectoring
+Runways:OPBN 07-25:extended centerline 2
+Runways:OPBN 07-25:extended centerline 2 left base
+Runways:OPBN 07-25:extended centerline 2 left ticks
+Runways:OPBN 07-25:extended centerline 2 left vectoring
+Runways:OPBN 07-25:extended centerline 2 right base
+Runways:OPBN 07-25:extended centerline 2 right ticks
+Runways:OPBN 07-25:extended centerline 2 right vectoring
+Runways:OPBN 07-25:name
+Runways:OPPS 17-35:centerline
+Runways:OPPS 17-35:extended centerline 1
+Runways:OPPS 17-35:extended centerline 1 left base
+Runways:OPPS 17-35:extended centerline 1 left ticks
+Runways:OPPS 17-35:extended centerline 1 left vectoring
+Runways:OPPS 17-35:extended centerline 1 right base
+Runways:OPPS 17-35:extended centerline 1 right ticks
+Runways:OPPS 17-35:extended centerline 1 right vectoring
+Runways:OPPS 17-35:extended centerline 2
+Runways:OPPS 17-35:extended centerline 2 left base
+Runways:OPPS 17-35:extended centerline 2 left ticks
+Runways:OPPS 17-35:extended centerline 2 left vectoring
+Runways:OPPS 17-35:extended centerline 2 right base
+Runways:OPPS 17-35:extended centerline 2 right ticks
+Runways:OPPS 17-35:extended centerline 2 right vectoring
+Runways:OPPS 17-35:name
+Runways:OPSS 05-23:centerline
+Runways:OPSS 05-23:extended centerline 1
+Runways:OPSS 05-23:extended centerline 1 left base
+Runways:OPSS 05-23:extended centerline 1 left ticks
+Runways:OPSS 05-23:extended centerline 1 left vectoring
+Runways:OPSS 05-23:extended centerline 1 right base
+Runways:OPSS 05-23:extended centerline 1 right ticks
+Runways:OPSS 05-23:extended centerline 1 right vectoring
+Runways:OPSS 05-23:extended centerline 2
+Runways:OPSS 05-23:extended centerline 2 left base
+Runways:OPSS 05-23:extended centerline 2 left ticks
+Runways:OPSS 05-23:extended centerline 2 left vectoring
+Runways:OPSS 05-23:extended centerline 2 right base
+Runways:OPSS 05-23:extended centerline 2 right ticks
+Runways:OPSS 05-23:extended centerline 2 right vectoring
+Runways:OPSS 05-23:name
+Stars:HOLDING OPLR TOMON R 354.0 7500:
+Stars:OPPS LOC35-Y TOMON:
+Stars:OPPS RNP17 LERNO:
+Stars:OPPS RNP17 PS:
+Stars:OPPS STAR 35 HANGU1D:
+Stars:OPPS STAR 35 NONIB1A:
+Stars:OPPS STAR ALL BELKO1C:
+Stars:OPPS STAR ALL FATEH1G:
+Stars:OPPS STAR ALL HANGU1C:
+Stars:OPPS STAR ALL PAKTA1C:
+VORs:PS:frequency
+VORs:PS:name
+VORs:PS:symbol
+VORs:RN:name
+VORs:RN:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan
+WINDOWAREA:32.085018:68.959980:35.595242:75.835397

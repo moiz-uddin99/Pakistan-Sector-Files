@@ -1,0 +1,71 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPQT:name
+Airports:OPQT:symbol
+Free Text:OPQT Ground Freetext\1:freetext
+Free Text:OPQT Ground Freetext\13R (MILITARY):freetext
+Free Text:OPQT Ground Freetext\1A:freetext
+Free Text:OPQT Ground Freetext\2:freetext
+Free Text:OPQT Ground Freetext\3:freetext
+Free Text:OPQT Ground Freetext\31L (MILITARY):freetext
+Free Text:OPQT Ground Freetext\4:freetext
+Free Text:OPQT Ground Freetext\5:freetext
+Free Text:OPQT Ground Freetext\6:freetext
+Free Text:OPQT Ground Freetext\A1:freetext
+Free Text:OPQT Ground Freetext\A2:freetext
+Free Text:OPQT Ground Freetext\A3:freetext
+Free Text:OPQT Ground Freetext\C1:freetext
+Free Text:OPQT Ground Freetext\C2:freetext
+Free Text:OPQT Ground Freetext\J:freetext
+Free Text:OPQT Ground Freetext\K:freetext
+Free Text:OPQT Ground Freetext\L:freetext
+Free Text:OPQT Ground Freetext\NEW JET APRON:freetext
+Free Text:OPQT Ground Freetext\OLD JET APRON:freetext
+Free Text:OPQT Ground Freetext\QUETTA INTL TERMINAL:freetext
+Geo:OPQT Groundlayout Geo Data:
+Regions:OPQT Ground Polygons:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:314.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:30.241678:66.913711:30.266445:66.967600
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Pakistan vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OPQT
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1918
+PLUGIN:vSMR:SRW1BottomRightY:318
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-2
+PLUGIN:vSMR:SRW1OffsetY:-11
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1617
+PLUGIN:vSMR:SRW1TopLeftY:60
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

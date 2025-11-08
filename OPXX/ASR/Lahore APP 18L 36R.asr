@@ -1,0 +1,101 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPLA:name
+Airports:OPLA:symbol
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
+ARTCC low boundary:OPLA CTA:
+ARTCC low boundary:OPLA CTR:
+ARTCC low boundary:OPLA TMA:
+Fixes:ADNIM:name
+Fixes:ADNIM:symbol
+Fixes:AKBER:name
+Fixes:AKBER:symbol
+Fixes:BIBUN:name
+Fixes:BIBUN:symbol
+Fixes:BITOL:name
+Fixes:BITOL:symbol
+Fixes:ELAMA:name
+Fixes:ELAMA:symbol
+Fixes:LAXEB:name
+Fixes:LAXEB:symbol
+Fixes:MIMAL:name
+Fixes:MIMAL:symbol
+Fixes:MUKVI:name
+Fixes:MUKVI:symbol
+Fixes:OMUKI:name
+Fixes:OMUKI:symbol
+Fixes:RABAN:name
+Fixes:RABAN:symbol
+Fixes:SULOM:name
+Fixes:SULOM:symbol
+Fixes:VEREN:name
+Fixes:VEREN:symbol
+Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
+Geo:OPLA MRVA:
+NDBs:SP:name
+NDBs:SP:symbol
+Runways:OPLA 18L-36R:centerline
+Runways:OPLA 18L-36R:extended centerline 1
+Runways:OPLA 18L-36R:extended centerline 1 left base
+Runways:OPLA 18L-36R:extended centerline 1 left ticks
+Runways:OPLA 18L-36R:extended centerline 1 left vectoring
+Runways:OPLA 18L-36R:extended centerline 1 right base
+Runways:OPLA 18L-36R:extended centerline 1 right ticks
+Runways:OPLA 18L-36R:extended centerline 1 right vectoring
+Runways:OPLA 18L-36R:extended centerline 2
+Runways:OPLA 18L-36R:extended centerline 2 left base
+Runways:OPLA 18L-36R:extended centerline 2 left ticks
+Runways:OPLA 18L-36R:extended centerline 2 left vectoring
+Runways:OPLA 18L-36R:extended centerline 2 right base
+Runways:OPLA 18L-36R:extended centerline 2 right ticks
+Runways:OPLA 18L-36R:extended centerline 2 right vectoring
+Runways:OPLA 18L-36R:name
+Stars:OPLA STAR 18L ADNIM2C:
+Stars:OPLA STAR 18L AKBER1C:
+Stars:OPLA STAR 18L BIBUN2B:
+Stars:OPLA STAR 18L LAXEB2C:
+Stars:OPLA STAR 18L MIMAL2B:
+Stars:OPLA STAR 18L MUKVI1C:
+Stars:OPLA STAR 18L OMUKI2C:
+Stars:OPLA STAR 18L RABAN2C:
+Stars:OPLA STAR 18L SULOM2C:
+Stars:OPLA STAR 18L VEREN1C:
+Stars:OPLA STAR 36R ADNIM2B:
+Stars:OPLA STAR 36R AKBER1B:
+Stars:OPLA STAR 36R BIBUN1A:
+Stars:OPLA STAR 36R LAXEB2B:
+Stars:OPLA STAR 36R MIMAL1A:
+Stars:OPLA STAR 36R MUKVI1B:
+Stars:OPLA STAR 36R OMUKI2B:
+Stars:OPLA STAR 36R RABAN2B:
+Stars:OPLA STAR 36R SULOM2B:
+Stars:OPLA STAR 36R VEREN1B:
+Stars:OPLA STAR ALL ADNIM2A:
+Stars:OPLA STAR ALL AKBER1A:
+Stars:OPLA STAR ALL LAXEB2A:
+Stars:OPLA STAR ALL MUKVI1A:
+Stars:OPLA STAR ALL OMUKI2A:
+Stars:OPLA STAR ALL RABAN2A:
+Stars:OPLA STAR ALL SULOM2A:
+Stars:OPLA STAR ALL VEREN1A:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan
+WINDOWAREA:29.520600:70.888875:32.680494:77.764292

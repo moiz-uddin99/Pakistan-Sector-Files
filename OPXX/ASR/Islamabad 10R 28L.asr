@@ -1,0 +1,31 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC low boundary:OPIS CTR:
+Runways:OPIS 10R-28L:centerline
+Runways:OPIS 10R-28L:extended centerline 1
+Runways:OPIS 10R-28L:extended centerline 1 left ticks
+Runways:OPIS 10R-28L:extended centerline 1 right ticks
+Runways:OPIS 10R-28L:extended centerline 2
+Runways:OPIS 10R-28L:extended centerline 2 left ticks
+Runways:OPIS 10R-28L:extended centerline 2 right ticks
+Runways:OPIS 10R-28L:name
+VORs:BTR:frequency
+VORs:BTR:name
+VORs:BTR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:33.265481:72.165578:33.873793:73.489168

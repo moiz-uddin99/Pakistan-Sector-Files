@@ -1,0 +1,30 @@
+PROFILE
+PROFILE:<Initials>_OBS:200:0
+ATIS2:Pakistan vACC Observer
+ATIS3:
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPKR_CTR:240:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering the Karachi ACC Bandbox.  | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPKR-C_CTR:110:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector Central. | Report callsign, aircraft, and position on initial contact 
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPKR-S_CTR:140:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector South. 
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPKR-W_CTR:170:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector West. 
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPKR-E_CTR:120:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector East. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:Select_Callsign_Here------>:50:0
+ATIS2:Select Your Callsign From The Dropdown Menu
+ATIS3:DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+END

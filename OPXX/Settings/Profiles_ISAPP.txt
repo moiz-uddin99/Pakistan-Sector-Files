@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:<Initials>_OBS:200:0
+ATIS2:Pakistan vACC Observer
+ATIS3:
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPIS_DEP:150:5
+ATIS2:"Islamabad Departures" 
+ATIS3:Covering Departures in the Islamabad TMA up to FL175 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPIS_APP:150:5
+ATIS2:"Islamabad Approach" 
+ATIS3:Covering the Islamabad TMA up to FL175 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+END

@@ -1,0 +1,504 @@
+{
+    "discord_appid": "1236699750875660419",
+    "discord_presence_large_image_key" : "coolor_2",
+    "discord_presence_small_image_key" : "atc95",
+    "sweatbox_bypass" : false,
+    "states" : {
+        "idle": {
+            "presence_small_image_key": "image",
+            "presence_large_image_key" : "",
+            "state" : "",
+            "details" : "Getting Doodh Pati Chai",
+            "presence_small_image_text" : "Chilling",
+            "presence_large_image_text" : "Chilling"
+        },
+        "playback": {
+            "presence_small_image_key": "",
+            "presence_large_image_key" : "",
+            "state" : "",
+            "details" : "Playback",
+            "presence_small_image_text" : "",
+            "presence_large_image_text" : ""
+        },
+        "sweatbox": {
+            "presence_small_image_key": "",
+            "presence_large_image_key" : "",
+            "state" : "Training in progress",
+            "details" : "Sweatbox Session",
+            "presence_small_image_text" : "",
+            "presence_large_image_text" : ""
+        },
+        "direct": {
+            "presence_small_image_key": "",
+            "presence_large_image_key" : "",
+            "state" : "",
+            "details" : "",
+            "presence_small_image_text" : "",
+            "presence_large_image_text" : "",
+            
+            "if_observer" : {
+                "presence_small_image_key": "",
+                "presence_large_image_key" : "",
+                "state" : "Aircraft in range: {total_inrange}",
+                "details" : "Observing as {callsign}",
+                "presence_small_image_text" : "",
+                "presence_large_image_text" : ""
+            },
+            
+            "if_controller": {
+                "presence_small_image_key": "",
+                "presence_large_image_key" : "",
+                "state" : "Controlling ({current_tracked} of {total_inrange})",
+                "details" : "{rcallsign} {frequency}MHz",
+                "presence_small_image_text" : "Total tracks: {total_tracked}",
+                "presence_large_image_text" : "{callsign}"
+            },
+            
+            "if_supervisor": {
+                "presence_small_image_key": "",
+                "presence_large_image_key" : "",
+                "state" : "",
+                "details" : "",
+                "presence_small_image_text" : "",
+                "presence_large_image_text" : ""
+            }
+        }
+    },
+    "radio_callsigns": {
+        "config": {
+            "load_from_ese": false,
+            "path_to_ese" : "\\d"
+        },
+        "custom" : [
+            {
+                "callsign": "^OPLR_CTR$",
+                "rcallsign" : "Lahore ACC Bandbox"
+            },
+            
+            {
+                "callsign": "^ISB_CTR$",
+                "rcallsign" : "Islamabad ACC Bandbox"
+            },
+            
+            {
+                "callsign": "^OPLA_TWR$",
+                "rcallsign" : "Lahore Tower"
+            },
+
+            {
+                "callsign": "^OPLA_GND$",
+                "rcallsign" : "Lahore Ground"
+            },
+
+               {
+                "callsign": "^OPLA_APP$",
+                "rcallsign" : "Lahore Approach"
+            },
+
+            {
+                "callsign": "^OPIS_DEL$",
+                "rcallsign" : "Islamabad Delivery"
+            },
+
+            {
+                "callsign": "^OPIS_GND$",
+                "rcallsign" : "Islamabad Ground"
+            },
+
+             {
+                "callsign": "^OPIS_TWR$",
+                "rcallsign" : "Islamabad Tower"
+            },
+
+            {
+                "callsign": "^OPIS_DEP$",
+                "rcallsign" : "Islamabad Departure"
+            },
+
+             {
+                "callsign": "^OPIS_APP$",
+                "rcallsign" : "Islamabad Approach"
+            },
+
+             {
+                "callsign": "^OPKC_GND$",
+                "rcallsign" : "Karachi Ground"
+            },
+
+            {
+                "callsign": "^OPKC_TWR$",
+                "rcallsign" : "Karachi Tower"
+            },
+           
+            {
+                "callsign": "^OPKC_APP$",
+                "rcallsign" : "Karachi Approach"
+            },
+
+            {
+                "callsign": "^OPKR_CTR$",
+                "rcallsign" : "Karachi ACC Bandbox"
+            },
+
+            {
+                "callsign": "^OPKR_CTR$",
+                "rcallsign" : "Karachi ACC Bandbox"
+            },
+
+            {
+                "callsign": "^OPKR-C_CTR$",
+                "rcallsign" : "Karachi ACC Central"
+            },
+
+            {
+                "callsign": "^OPKR-S_CTR$",
+                "rcallsign" : "Karachi ACC South"
+            },
+
+            
+            {
+                "callsign": "^OPKR-W_CTR$",
+                "rcallsign" : "Karachi ACC West"
+            },
+  
+            {
+                "callsign": "^OPKR-E_CTR$",
+                "rcallsign" : "Karachi ACC East"
+            },
+
+            {
+                "callsign": "^OPMJ_TWR$",
+                "rcallsign" : "Moenjodaro Tower"
+            },
+
+            {
+                "callsign": "^OPMJ_GND$",
+                "rcallsign" : "Moenjodaro Ground"
+            },
+
+            {
+                "callsign": "^OPNH_GND$",
+                "rcallsign" : "Nawabshah Ground"
+            },
+
+
+            {
+                "callsign": "^OPNH_TWR$",
+                "rcallsign" : "Nawabshah Tower"
+            },
+
+
+            {
+                "callsign": "^OPOR_TWR$",
+                "rcallsign" : "Ormara Tower"
+            },
+
+
+            {
+                "callsign": "^OPOR_GND$",
+                "rcallsign" : "Ormara Ground"
+            },
+
+
+
+            {
+                "callsign": "^OPPG_GND$",
+                "rcallsign" : "Panjgur Ground"
+            },
+
+
+            {
+                "callsign": "^OPPG_TWR$",
+                "rcallsign" : "Panjgur Tower"
+            },
+
+            {
+                "callsign": "^OPPI_TWR$",
+                "rcallsign" : "Pasni Tower"
+            },
+
+            {
+                "callsign": "^OPPI_GND$",
+                "rcallsign" : "Pasni Ground"
+            },
+
+
+            {
+                "callsign": "^OPTU_GND$",
+                "rcallsign" : "Turbat Ground"
+            },
+
+
+            {
+                "callsign": "^OPTU_TWR$",
+                "rcallsign" : "Turbat Tower"
+            },
+
+            {
+                "callsign": "^OPSW_TWR$",
+                "rcallsign" : "Sawan Tower"
+            },
+
+            {
+                "callsign": "^CHR_APP$",
+                "rcallsign" : "Cherat Approach"
+            },
+
+            {
+                "callsign": "^CHR-N_APP",
+                "rcallsign" : "Cherat North Approach"
+            },
+
+            {
+                "callsign": "^CHR-S_APP",
+                "rcallsign" : "Cherat South Approach"
+            },
+
+            {
+                "callsign": "^OPBN_TWR",
+                "rcallsign" : "Bannu Tower"
+            },
+
+
+            {
+                "callsign": "^OPBN_GND",
+                "rcallsign" : "Bannu Ground"
+            },
+
+            {
+                "callsign": "^OPBW_GND",
+                "rcallsign" : "Bahawalpur Ground"
+            },
+
+
+            {
+                "callsign": "^OPBN_TWR",
+                "rcallsign" : "Bahawalpur Tower"
+            },
+
+
+            {
+                "callsign": "^OPCH_GND",
+                "rcallsign" : "Chitral Ground"
+            },
+
+            {
+                "callsign": "^OPCH_TWR",
+                "rcallsign" : "Chitral Tower"
+            },
+
+            {
+                "callsign": "^OPDG_TWR",
+                "rcallsign" : "D.G. Khan Tower"
+            },
+
+            {
+                "callsign": "^OPFA_TWR",
+                "rcallsign" : "Faisalabad  Tower"
+            },
+
+            {
+                "callsign": "^OPFA_GND",
+                "rcallsign" : "Faisalabad Ground"
+            },
+
+            {
+                "callsign": "^OPGT_TWR",
+                "rcallsign" : "Gilgit Tower"
+            },
+
+            {
+                "callsign": "^OPGT_GND",
+                "rcallsign" : "Gilgit Ground"
+            },
+
+
+            {
+                "callsign": "^OPLR-E_CTR",
+                "rcallsign" : "Lahore ACC East"
+            },
+
+            {
+                "callsign": "^OPLR-S_CTR",
+                "rcallsign" : "Lahore ACC South"
+            },
+
+            {
+                 "callsign": "OPLR-W_CTR",
+                 "rcallsign": "Lahore ACC West"
+            },
+
+            {
+                "callsign": "OPMF_GND",
+                "rcallsign": "Muzaffarabad Ground"
+            },
+
+            {
+                "callsign": "OPMF_TWR",
+                "rcallsign": "Muzaffarabad Tower"
+            },
+
+            {
+                "callsign": "OPMT_TWR",
+                "rcallsign": "Multan Tower"
+            },
+
+            {
+                "callsign": "OPPC_TWR",
+                "rcallsign": "Parachinar Tower"
+            },
+
+            {
+                "callsign": "OPPS_TWR",
+                "rcallsign": "Peshawar Tower"
+            },
+
+            
+            {
+                "callsign": "OPPS_GND",
+                "rcallsign": "Peshawar Ground"
+            },
+
+            {
+                "callsign": "OPPS_GND",
+                "rcallsign": "Peshawar Ground"
+            },
+
+            {
+                "callsign": "OPQT_TWR",
+                "rcallsign": "Quetta Tower"
+            },
+
+            {
+                "callsign": "OPQT_GND",
+                "rcallsign": "Quetta Ground"
+            },
+
+            {
+                "callsign": "OPRK_GND",
+                "rcallsign": "Rahim Yar Khan Ground"
+            },
+
+            
+            {
+                "callsign": "OPRK_TWR",
+                "rcallsign": "Rahim Yar Khan Tower"
+            },
+
+                  
+            {
+                "callsign": "OPRN_TWR",
+                "rcallsign": "Nur Khan Military Tower"
+            },
+
+            {
+                "callsign": "OPRN_APP",
+                "rcallsign": "Nur Khan Airbase Approach"
+            },
+
+            {
+                "callsign": "OPSK_TWR",
+                "rcallsign": "Sukkur Tower"
+            },
+
+            {
+                "callsign": "OPSK_GND",
+                "rcallsign": "Sukkur Ground"
+            },
+
+            {
+                "callsign": "OPZB_GND",
+                "rcallsign": "Zhob Ground"
+            },
+
+            {
+                "callsign": "OPZB_TWR",
+                "rcallsign": "Zhob Tower"
+            },
+
+            {
+                "callsign": "OPST_TWR",
+                "rcallsign": "Sialkot Tower"
+            },
+
+            {
+                "callsign": "OPST_GND",
+                "rcallsign": "Sialkot Ground"
+            },
+
+            {
+                "callsign": "OPSS_GND",
+                "rcallsign": "Saidu Sharif Ground"
+            },
+
+            {
+                "callsign": "OPSS_TWR",
+                "rcallsign": "Saidu Sharif Tower"
+            },
+
+            {
+                "callsign": "OPSD_TWR",
+                "rcallsign": "Skardu Tower"
+            },
+
+            {
+                "callsign": "OPSD_GND",
+                "rcallsign": "Skardu Ground"
+            },
+
+            
+            {
+                "callsign": "OPDB_GND",
+                "rcallsign": "Dalbandin Ground"
+            },
+
+            {
+                "callsign": "OPDB_TWR",
+                "rcallsign": "Dalbandin Tower"
+            },
+
+            {
+                "callsign": "OPGD_TWR",
+                "rcallsign": "Gawadar Tower"
+            },
+
+            {
+                "callsign": "OPGD_GND",
+                "rcallsign": "Gawadar Ground"
+            },
+
+            {
+                "callsign": "OPJI_GND",
+                "rcallsign": "Jiwani Ground"
+            },
+
+            {
+                "callsign": "OPJI_TWR",
+                "rcallsign": "Jiwani Tower"
+            },
+
+            {
+                "callsign": "OPKD_TWR",
+                "rcallsign": "Hyderabad Tower"
+            },
+
+            {
+                "callsign": "OPKH_TWR",
+                "rcallsign": "Khuzdar Tower"
+            },
+
+            {
+                "callsign": "OPKH_GND",
+                "rcallsign": "Khuzdar Ground"
+            },
+
+
+            
+            {
+                "callsign": "^OPXX_(\\d+)(?:_)CTR$",
+                "rcallsign" : "Karachi Control ACC $0"
+            }
+        ]
+
+    }
+}

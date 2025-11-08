@@ -1,0 +1,270 @@
+PROFILE
+PROFILE:<Initials>_OBS:200:0
+ATIS2:Pakistan vACC Observer
+ATIS3:
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPBN_TWR:50:4
+ATIS2:"Bannu Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPBW_TWR:50:4
+ATIS2:"Bahawalpur Tower"
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPCH_GND:20:3
+ATIS2:"Chitral Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPCH_TWR:50:4
+ATIS2:"Chitral Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPDG_TWR:50:4
+ATIS2:"D.G. Khan Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPDI_TWR:50:4
+ATIS2:"D.I. Khan Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPFA_GND:20:3
+ATIS2:"Faisalabad Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPFA_TWR:50:4
+ATIS2:"Faisalabad Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPGT_TWR:50:4
+ATIS2:"Gilgit Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPIS_DEL:20:2
+ATIS2:"Islamabad Delivery" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:OPIS_GND:20:2
+ATIS2:"Islamabad Ground"  
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPIS_TWR:50:4
+ATIS2:"Islamabad Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPIS_DEP:150:5
+ATIS2:"Islamabad Departures" 
+ATIS3:Covering Departures in the Islamabad TMA up to FL175 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPIS_APP:150:5
+ATIS2:"Islamabad Approach" 
+ATIS3:Covering the Islamabad TMA up to FL175 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:ISB_CTR:150:6
+ATIS2:"Islamabad Control" 
+ATIS3:Covering the Islamabad ACC. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPLA_GND:20:2
+ATIS2:"Lahore Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPLA_TWR:50:4
+ATIS2:"Lahore Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPLA_APP:150:5
+ATIS2:"Lahore Approach" 
+ATIS3:Covering the Lahore CTA up to FL165 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPLR_CTR:240:6
+ATIS2:"Lahore Control" 
+ATIS3:Covering the Lahore ACC Bandbox | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPLR-E_CTR:130:6
+ATIS2:"Lahore Control" 
+ATIS3:Covering Lahore ACC Sector East. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPLR-S_CTR:110:6
+ATIS2:"Lahore Control" 
+ATIS3:Covering Lahore ACC Sector South. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPLR-W_CTR:130:6
+ATIS2:"Lahore Control" 
+ATIS3:Covering Lahore ACC Sector West. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPBN_TWR:50:4
+ATIS2:"Muzaffarabad Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPMT_GND:20:3
+ATIS2:"Multan Ground"
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPMT_TWR:50:4
+ATIS2:"Multan Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPPC_TWR:50:4
+ATIS2:"Parachinar Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPPS_GND:20:3
+ATIS2:"Peshawar Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPPS_TWR:50:4
+ATIS2:"Peshawar Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:CHR_APP:150:5
+ATIS2:"Cherat Approach" 
+ATIS3:Covering Cherat North and South TMA up to FL245 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:CHR-N_APP:150:5
+ATIS2:"Cherat Approach" 
+ATIS3:Covering Cherat TMA North up to FL245 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:CHR-S_APP:150:5
+ATIS2:"Cherat Approach" 
+ATIS3:Covering Cherat TMA South up to FL245 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPQT_GND:20:3
+ATIS2:"Quetta Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPQT_TWR:50:4
+ATIS2:"Quetta Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPRK_TWR:50:4
+ATIS2:"Rahim Yar Khan Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPRN_TWR:50:4
+ATIS2:"Chaklala Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPRT_TWR:50:4
+ATIS2:"Rawalakot Tower"  
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPSD_TWR:50:4
+ATIS2:"Skardu Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPSK_TWR:50:4
+ATIS2:"Sukkur Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPSS_TWR:50:4
+ATIS2:"Saidu Sharif Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPST_GND:20:3
+ATIS2:"Sialkot Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPST_TWR:50:4
+ATIS2:"Sialkot Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPZB_TWR:50:4
+ATIS2:"Zhob Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPDB_TWR:50:4
+ATIS2:"Dalbandin Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPGD_TWR:50:4
+ATIS2:"Gwadar Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPJI_TWR:50:4
+ATIS2:"Jiwani Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKC_GND:20:3
+ATIS2:"Karachi Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKC_TWR:50:4
+ATIS2:"Karachi Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKC_APP:150:5
+ATIS2:"Karachi Approach" 
+ATIS3:Covering the Karachi CTA up to FL195 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKR_CTR:240:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering the Karachi ACC Bandbox. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKR-C_CTR:110:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector Central. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKR-S_CTR:140:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector South. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKR-W_CTR:170:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector West. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKR-E_CTR:120:6
+ATIS2:"Karachi Control" 
+ATIS3:Covering Karachi ACC Sector East. | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKD_TWR:50:4
+ATIS2:"Hyderabad Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPKH_TWR:50:4
+ATIS2:"Khuzdar Tower"
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPMJ_TWR:50:4
+ATIS2:"Moenjodaro Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPNH_GND:20:3
+ATIS2:"Nawabshah Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPNH_TWR:50:4
+ATIS2:"Nawabshah Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPOR_TWR:50:4
+ATIS2:"Ormara Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPPG_GND:20:3
+ATIS2:"Panjgur Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPPG_TWR:50:4
+ATIS2:"Panjgur Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPPI_TWR:50:4
+ATIS2:"Pasni Tower"  
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPSW_TWR:50:4
+ATIS2:"Sawan Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPTU_GND:20:3
+ATIS2:"Turbat Ground" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:OPTU_TWR:50:4
+ATIS2:"Turbat Tower" 
+ATIS3:Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+PROFILE:Select_Callsign_Here------>:50:0
+ATIS2:Select Your Callsign From The Dropdown Menu
+ATIS3:DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net
+END

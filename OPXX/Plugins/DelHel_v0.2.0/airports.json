@@ -1,0 +1,741 @@
+{
+"OPLA": {
+"elevation": 712,
+"sids": {
+  "MIMAL": {
+    "cfl": 14000,
+    "rwys": {
+      "36R": {
+        "dep": "MIMAL2D"
+      },
+      "18L": {
+        "dep": "MIMAL2E"
+      }
+    }
+  },
+
+  "BIBUN": {
+    "cfl": 14000,
+    "rwys": {
+      "36R": {
+        "dep": "BIBUN2D"
+      },
+      "18L": {
+        "dep": "BIBUN2E"
+      }
+    }
+  },
+
+  "OMUKI": {
+    "cfl": 7000,
+    "rwys": {
+      "36R": {
+        "dep": "OMUKI2D"
+      },
+
+    "18L": {
+      "dep": "OMUKI2E"
+    }
+    }
+  },
+"VEREN": {
+    "cfl": 14000,
+    "rwys": {
+      "36R": {
+        "dep": "VEREN1D"
+      },
+      "18L":{
+        "dep": "VEREN2E"
+      }
+    }
+  },
+  
+  "AKBER": {
+   "cfl": 7000,
+    "rwys": {
+      "36R": {
+        "dep": "AKBER1D"
+      },
+      "18L":{
+        "dep": "AKBER1E"
+      }
+    }
+  },
+  "ADNIM": {
+    "cfl": 7000,
+     "rwys": {
+       "36R": {
+         "dep": "ADNIM2D"
+       },
+       "18L":{
+         "dep": "ADNIME"
+       }
+     }
+   },
+   "MUKVI": {
+    "cfl": 14000,
+     "rwys": {
+       "36R": {
+         "dep": "MUKVI1D"
+       },
+       "18L":{
+         "dep": "MUKVI1E"
+       }
+     }
+   },
+
+   "LAXEB": {
+    "cfl": 14000,
+     "rwys": {
+       "36R": {
+         "dep": "LAXEB2D"
+       },
+       "18L":{
+         "dep": "LAXEB2E "
+       }
+     }
+   },
+
+   "RABAN": {
+    "cfl": 15000,
+     "rwys": {
+       "36R": {
+         "dep": "RABAN2D"
+       },
+       "18L":{
+         "dep": "RABAN2E "
+       }
+     }
+   },
+
+   "SULOM": {
+    "cfl": 15000,
+     "rwys": {
+       "36R": {
+         "dep": "SULOM2D"
+       },
+       "18L":{
+         "dep": "SULOM2E "
+        }
+      }
+    }
+  }
+},
+"OPIS": {
+  "elevation": 1761,
+  "sids": {
+    "BOBAM": {
+      "cfl": 8000,
+      "rwys": {
+        "28L": {
+          "dep": "BOBAM2M",
+          "prio": 1
+        },
+        "10R": {
+          "dep": "BOBAM2L",
+          "prio": 2
+        },
+        "28R": {
+         "dep": "BOBAM1R",
+         "prio": 3
+       },
+       "10L": {
+         "dep": "BELKO1Q",
+         "prio": 4
+       }
+     }
+   },
+  "BELKO": {
+     "cfl": 16000,
+      "rwys": {
+        "28L": {
+          "dep": "BELKO2F",
+          "prio": 1
+        },
+        "10R":{
+          "dep": "BELKO2E ",
+          "prio": 2
+        },
+        "28R": {
+         "dep": "BELKO1K",
+         "prio": 3
+       },
+       "10L": {
+         "dep": "BELKO1J",
+         "prio": 4
+       }
+     }
+   },
+   
+   "KALMI": {
+      "cfl": 7000,
+       "rwys": {
+         "28L": {
+           "dep": "KALMI2D",
+           "prio": 1
+         },
+         "10R":{
+           "dep": "KALMI2C",
+           "prio": 2
+          },
+          "28R": {
+           "dep": "KALMI1J",
+           "prio": 3
+         },
+         "10L": {
+           "dep": "KALMI1E",
+           "prio": 4
+         }
+       }
+     },
+
+     "DAMTO": {
+      "cfl": 7000,
+       "rwys": {
+         "28L": {
+           "dep": "DAMTO2G",
+           "prio": 1
+         },
+         "10R":{
+           "dep": "DAMTO2F",
+           "prio": 2
+          },
+          "28R": {
+           "dep": "DAMTO1L",
+           "prio": 3
+         },
+         "10L": {
+           "dep": "DAMTO1K",
+           "prio": 4
+         }
+       }
+     },
+
+     "INDEK": {
+      "cfl": 7000,
+       "rwys": {
+         "28L": {
+           "dep": "INDEK2D",
+           "prio": 1
+         },
+         "10R":{
+           "dep": "INDEK2C",
+           "prio": 2
+         },
+         "28R": {
+          "dep": "INDEK1H",
+          "prio": 3
+        },
+        "10L": {
+          "dep": "INDEK1G",
+          "prio": 4
+        }
+      }
+    }
+  }
+},
+"OPPS": {
+  "elevation": 1211,
+  "sids": {
+    "HANGU": {
+      "cfl": 12000,
+      "rwys": {
+        "35": {
+          "dep": "HANGU1E"
+        },
+        "17": {
+          "dep": "HANGU1G" 
+        }
+      }
+    },
+    "KALMI": {
+      "cfl": 12000,
+       "rwys": {
+         "35": {
+           "dep": "KALMI1C"
+          },
+          "17": {
+            "dep": "KALMI1D" 
+          }
+        }
+      }
+    }
+  },
+  "OPMT": {
+    "elevation": 403,
+    "sids": {
+      "MOLTA": {
+        "cfl": 12000,
+        "rwys": {
+          "36": {
+            "dep": "MOLTA1A"
+          },
+          "18": {
+            "dep": "MOLTA1B" 
+          }
+        }
+      },
+      "RAJAN": {
+        "cfl": 12000,
+        "rwys": {
+          "36": {
+            "dep": "RAJAN1A"
+          },
+          "18": {
+            "dep": "RAJAN1B" 
+          }
+        }
+      },
+      "MANRI": {
+        "cfl": 12000,
+        "rwys": {
+          "36": {
+            "dep": "MANRI1A"
+          },
+          "18": {
+            "dep": "MANRI1B" 
+          }
+        }
+      },
+      "MELUK": {
+        "cfl": 6000,
+        "rwys": {
+          "36": {
+            "dep": "MELUK1A"
+          },
+          "18": {
+            "dep": "MELUK1B" 
+          }
+        }
+      }
+    }
+  },
+  "OPFA": {
+    "elevation": 591,
+    "sids": {
+      "ENRIR": {
+        "cfl": 4000,
+        "rwys": {
+          "03R": {
+            "dep": "ENRIR1C"
+          },
+          "21L": {
+            "dep": "ENRIR1D" 
+          }
+        }
+      },
+      "NINUK": {
+        "cfl": 8000,
+        "rwys": {
+          "03R": {
+            "dep": "NINUK1C"
+          },
+          "21L": {
+            "dep": "NINUK1D" 
+          }
+        }
+      }
+    }
+  },
+  "OPST": {
+    "elevation": 786,
+    "sids": {
+      "BINEX": {
+        "cfl": 8000,
+        "rwys": {
+          "04": {
+            "dep": "BINEX1D"
+          },
+          "22": {
+            "dep": "BINEX1B" 
+          }
+        }
+      },
+      "SALNA": {
+        "cfl": 6000,
+        "rwys": {
+          "04": {
+            "dep": "SALNA1A"
+          },
+          "22": {
+            "dep": "SALNA1B" 
+          }
+        }
+      }
+    }
+  },
+  "OPQT": {
+    "elevation": 5267,
+    "sids": {
+      "DADLO": {
+        "cfl": 14000,
+        "rwys": {
+          "31R": {
+            "dep": "DADLO1A"
+          }
+        }
+      },
+"MOMKA": {
+  "cfl": 14000,
+  "rwys": {
+    "31R": {
+      "dep": "MOMKA1A"
+    }
+  }
+},
+"PARLO": {
+  "cfl": 14000,
+  "rwys": {
+    "31R": {
+      "dep": "PARLO1A"
+    }
+  }
+},
+"KALAT": {
+  "cfl": 13000,
+  "rwys": {
+    "31R": {
+      "dep": "KALAT2A"
+    }
+  }
+},
+"SIBMI": {
+  "cfl": 13000,
+  "rwys": {
+    "31R": {
+      "dep": "SIBMI2A"
+    }
+  }
+},
+"OVTEX": {
+  "cfl": 13000,
+  "rwys": {
+    "31R": {
+      "dep": "OVTEX1A"
+    }
+  }
+}
+}
+},
+"OPRK": {
+  "elevation": 271,
+  "sids": {
+    "LUBNA": {
+      "cfl": 5000,
+      "rwys": {
+        "01": {
+          "dep": "LUBNA1A"
+        },
+        "19": {
+          "dep": "LUBNA1B" 
+        }
+      }
+    },
+    "MANRI": {
+      "cfl": 5000,
+      "rwys": {
+        "01": {
+          "dep": "MANRI1A"
+        },
+        "19": {
+          "dep": "MANRI1B" 
+        }
+      }
+    },
+    "MURLI": {
+      "cfl": 5000,
+      "rwys": {
+        "01": {
+          "dep": "MURLI1A"
+        },
+        "19": {
+          "dep": "MURLI1B" 
+        }
+      }
+    },
+    "ZOHAR": {
+      "cfl": 5000,
+      "rwys": {
+        "01": {
+          "dep": "ZOHAR1A"
+        },
+        "19": {
+          "dep": "ZOHAR1B" 
+        }
+      }
+    }
+    }
+    },
+    "OPSK": {
+      "elevation": 271,
+      "sids": {
+        "IDEBA": {
+          "cfl": 5000,
+          "rwys": {
+            "14": {
+              "dep": "IDEBA1A"
+            },
+            "32": {
+              "dep": "IDEBA1B" 
+            }
+          }
+        },
+        "KAGNI": {
+          "cfl": 5000,
+          "rwys": {
+            "14": {
+              "dep": "KAGNI1A"
+            },
+            "32": {
+              "dep": "KAGNI1B" 
+            }
+          }
+        },
+        "LUBNA": {
+          "cfl": 5000,
+          "rwys": {
+            "14": {
+              "dep": "LUBNA1A"
+            },
+            "32": {
+              "dep": "LUBNA1B" 
+            }
+          }
+        },
+        "RAJAN": {
+          "cfl": 5000,
+          "rwys": {
+            "14": {
+              "dep": "RAJAN1A"
+            },
+            "32": {
+              "dep": "RAJAN1B" 
+            }
+          }
+        }
+        }
+        },
+"OPKC": {
+  "elevation": 100,
+  "sids": {
+    "BADUL": {
+      "cfl": 7000,
+      "rwys": {
+        "25L": {
+          "dep": "BADUL1D",
+          "nap": "BADUL3A"
+        },
+        "07R": {
+          "dep": "BADUL3B" 
+        }
+      }
+    },
+    "DANGI": {
+      "cfl": 7000,
+      "rwys": {
+        "25L": {
+          "dep": "DANGI1C"
+        },
+        "07R": {
+          "dep": "DANGI1D",
+          "prio": 1
+        },
+        "07L": {
+          "dep": "DANGI1E",
+          "prio": 2
+        }
+      }
+    },
+          "MELOM": {
+            "cfl": 7000,
+            "rwys": {
+              "25L": {
+                "dep": "MELOM1F"
+              },
+              "07R": {
+                "dep": "MELOM1H",
+                "prio": 1
+              },
+              "07L": {
+                "dep": "MELOM1M",
+                "prio": 2
+              }
+            }
+          },
+          "NIROL": {
+            "cfl": 7000,
+            "rwys": {
+              "25L": {
+                "dep": "NIROLC"
+              },
+              "07R": {
+                "dep": "NIROL1D",
+                "prio": 1
+              },
+              "07L": {
+                "dep": "NIROLE",
+                "prio": 2
+              }
+            }
+          },
+          "PUNAM": {
+            "cfl": 7000,
+            "rwys": {
+              "25L": {
+                "dep": "PUNAM3A"
+              },
+              "07R": {
+                "dep": "PUNAM3B"
+              }
+            }
+          }
+        }
+      },
+"OPBW": {
+  "elevation": 396,
+  "sids": {
+    "MIMAL": {
+      "cfl": 5000,
+      "rwys": {
+        "08": {
+          "dep": "MIMAL1A"
+        },
+        "26": {
+          "dep": "MIMAL1B" 
+        }
+      }
+    },    
+    "MURLI": {
+      "cfl": 5000,
+      "rwys": {
+        "08": {
+          "dep": "MURLI1A"
+        },
+        "26": {
+          "dep": "MURLI1B" 
+        }
+      }
+    }
+  }
+},   
+"OPGD": {
+  "elevation": 396,
+  "sids": {
+    "BIVIN": {
+      "cfl": 5000,
+      "rwys": {
+        "06": {
+          "dep": "BIVIN1C"
+        },
+        "24": {
+          "dep": "BIVIN1D" 
+        }
+      }
+    },
+"PI": {
+      "cfl": 5000,
+      "rwys": {
+        "06": {
+          "dep": "PI1C"
+        },
+        "24": {
+          "dep": "PI1D" 
+        }
+      }
+    },
+"TU": {
+      "cfl": 5000,
+      "rwys": {
+        "06": {
+          "dep": "TU1C"
+        },
+        "24": {
+          "dep": "TU1D" 
+        }
+      }
+    },  
+    "PASNI": {
+      "cfl": 5000,
+      "rwys": {
+        "06": {
+          "dep": "PASNI1A"
+        },
+        "24": {
+          "dep": "PASNI1B" 
+        }
+      }
+    },  
+"TURBAT": {
+      "cfl": 5000,
+      "rwys": {
+        "06": {
+          "dep": "TURBAT1A"
+        },
+        "24": {
+          "dep": "TURBAT1B" 
+        }
+      }
+    }
+  }
+},
+"OPTU": {
+  "elevation": 501,
+  "sids": {
+    "BIVIN": {
+      "cfl": 5000,
+      "rwys": {
+        "26R": {
+          "dep": "BIVIN1A"
+        },
+        "08L": {
+          "dep": "BIVIN1B" 
+        }
+      }
+    },
+    "DOSTI": {
+      "cfl": 5000,
+      "rwys": {
+        "26R": {
+          "dep": "DOSTI1A"
+        },
+        "08L": {
+          "dep": "DOSTI1B" 
+        }
+      }
+    },
+"GD": {
+      "cfl": 5000,
+      "rwys": {
+        "26R": {
+          "dep": "GD1A"
+        },
+        "08L": {
+          "dep": "GD1B" 
+        }
+      }
+    },
+  "PG": {
+      "cfl": 5000,
+      "rwys": {
+        "26R": {
+          "dep": "PG1A"
+        },
+        "08L": {
+          "dep": "PG1B" 
+        }
+      }
+    },
+    "PI": {
+      "cfl": 5000,
+      "rwys": {
+        "26R": {
+          "dep": "PI1A"
+        },
+        "08L": {
+          "dep": "PI1B" 
+        }
+      }
+    }
+  }
+}
+}

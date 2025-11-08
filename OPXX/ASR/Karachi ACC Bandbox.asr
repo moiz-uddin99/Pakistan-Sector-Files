@@ -1,0 +1,357 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPDB:name
+Airports:OPGD:name
+Airports:OPJI:name
+Airports:OPKC:name
+Airports:OPKD:name
+Airports:OPKH:name
+Airports:OPMJ:name
+Airports:OPNH:name
+Airports:OPOR:name
+Airports:OPPG:name
+Airports:OPPI:name
+Airports:OPTU:name
+ARTCC boundary:OPKR C ACC:
+ARTCC boundary:OPKR E ACC:
+ARTCC boundary:OPKR S ACC:
+ARTCC boundary:OPKR W ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
+ARTCC high boundary:OAKX FIR:
+ARTCC high boundary:OIIX FIR:
+ARTCC high boundary:OOMM FIR:
+ARTCC high boundary:VABF FIR:
+ARTCC low boundary:OPKC CTA:
+ARTCC low boundary:OPKC TMA:
+ARTCC low boundary:OPKC TWR:
+Fixes:ALPOR:name
+Fixes:ALPOR:symbol
+Fixes:AMJID:name
+Fixes:AMJID:symbol
+Fixes:APELO:name
+Fixes:APELO:symbol
+Fixes:ASVIB:name
+Fixes:ASVIB:symbol
+Fixes:BADUL:name
+Fixes:BADUL:symbol
+Fixes:CHORE:name
+Fixes:CHORE:symbol
+Fixes:DALTI:name
+Fixes:DALTI:symbol
+Fixes:DAMLI:name
+Fixes:DAMLI:symbol
+Fixes:DANGI:name
+Fixes:DANGI:symbol
+Fixes:DERBO:name
+Fixes:DERBO:symbol
+Fixes:DOSTI:name
+Fixes:DOSTI:symbol
+Fixes:EGRON:name
+Fixes:EGRON:symbol
+Fixes:ELKEB:name
+Fixes:ELKEB:symbol
+Fixes:GADER:name
+Fixes:GADER:symbol
+Fixes:ISHAQ:name
+Fixes:ISHAQ:symbol
+Fixes:KABIM:name
+Fixes:KABIM:symbol
+Fixes:KC502:name
+Fixes:KC502:symbol
+Fixes:KC505:name
+Fixes:KC505:symbol
+Fixes:KEBUD:name
+Fixes:KEBUD:symbol
+Fixes:LAKIV:name
+Fixes:LAKIV:symbol
+Fixes:LOTAT:name
+Fixes:LOTAT:symbol
+Fixes:MAKLI:name
+Fixes:MAKLI:symbol
+Fixes:MELOM:name
+Fixes:MELOM:symbol
+Fixes:METBI:name
+Fixes:METBI:symbol
+Fixes:NIROL:name
+Fixes:NIROL:symbol
+Fixes:PARTY:name
+Fixes:PARTY:symbol
+Fixes:PUNAM:name
+Fixes:PUNAM:symbol
+Fixes:RAMSA:name
+Fixes:RAMSA:symbol
+Fixes:SABEN:name
+Fixes:SABEN:symbol
+Fixes:SAPNA:name
+Fixes:SAPNA:symbol
+Fixes:SERKA:name
+Fixes:SERKA:symbol
+Fixes:TAPDO:name
+Fixes:TAPDO:symbol
+Fixes:TASOP:name
+Fixes:TASOP:symbol
+Fixes:TELEM:name
+Fixes:TELEM:symbol
+Fixes:ZOHAR:name
+Fixes:ZOHAR:symbol
+Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
+Free Text:OPKR Neighbouring FIR\OIIX (Tehran):freetext
+Free Text:OPKR Neighbouring FIR\OOMM (Muscat):freetext
+Free Text:OPKR Neighbouring FIR\VABF (Mumbai):freetext
+Free Text:OPLR Neighbouring FIR\OAKX (Kabul):freetext
+Free Text:OPLR Neighbouring FIR\VIDF (Delhi):freetext
+Geo:OPKC MRVA:
+Geo:OPKR Landmark Coastline:
+NDBs:KE:name
+NDBs:KE:symbol
+NDBs:NH:name
+NDBs:NH:symbol
+Runways:OPDB 13-31:centerline
+Runways:OPDB 13-31:extended centerline 1
+Runways:OPDB 13-31:extended centerline 1 left base
+Runways:OPDB 13-31:extended centerline 1 left ticks
+Runways:OPDB 13-31:extended centerline 1 left vectoring
+Runways:OPDB 13-31:extended centerline 1 right base
+Runways:OPDB 13-31:extended centerline 1 right ticks
+Runways:OPDB 13-31:extended centerline 1 right vectoring
+Runways:OPDB 13-31:extended centerline 2
+Runways:OPDB 13-31:extended centerline 2 left base
+Runways:OPDB 13-31:extended centerline 2 left ticks
+Runways:OPDB 13-31:extended centerline 2 left vectoring
+Runways:OPDB 13-31:extended centerline 2 right base
+Runways:OPDB 13-31:extended centerline 2 right ticks
+Runways:OPDB 13-31:extended centerline 2 right vectoring
+Runways:OPDB 13-31:name
+Runways:OPGD 06-24:centerline
+Runways:OPGD 06-24:extended centerline 1
+Runways:OPGD 06-24:extended centerline 1 left base
+Runways:OPGD 06-24:extended centerline 1 left ticks
+Runways:OPGD 06-24:extended centerline 1 left vectoring
+Runways:OPGD 06-24:extended centerline 1 right base
+Runways:OPGD 06-24:extended centerline 1 right ticks
+Runways:OPGD 06-24:extended centerline 1 right vectoring
+Runways:OPGD 06-24:extended centerline 2
+Runways:OPGD 06-24:extended centerline 2 left base
+Runways:OPGD 06-24:extended centerline 2 left ticks
+Runways:OPGD 06-24:extended centerline 2 left vectoring
+Runways:OPGD 06-24:extended centerline 2 right base
+Runways:OPGD 06-24:extended centerline 2 right ticks
+Runways:OPGD 06-24:extended centerline 2 right vectoring
+Runways:OPGD 06-24:name
+Runways:OPJI 03-21:centerline
+Runways:OPJI 03-21:extended centerline 1
+Runways:OPJI 03-21:extended centerline 1 left base
+Runways:OPJI 03-21:extended centerline 1 left ticks
+Runways:OPJI 03-21:extended centerline 1 left vectoring
+Runways:OPJI 03-21:extended centerline 1 right base
+Runways:OPJI 03-21:extended centerline 1 right ticks
+Runways:OPJI 03-21:extended centerline 1 right vectoring
+Runways:OPJI 03-21:extended centerline 2
+Runways:OPJI 03-21:extended centerline 2 left base
+Runways:OPJI 03-21:extended centerline 2 left ticks
+Runways:OPJI 03-21:extended centerline 2 left vectoring
+Runways:OPJI 03-21:extended centerline 2 right base
+Runways:OPJI 03-21:extended centerline 2 right ticks
+Runways:OPJI 03-21:extended centerline 2 right vectoring
+Runways:OPJI 03-21:name
+Runways:OPKC 07R-25L:centerline
+Runways:OPKC 07R-25L:extended centerline 1
+Runways:OPKC 07R-25L:extended centerline 1 left base
+Runways:OPKC 07R-25L:extended centerline 1 left ticks
+Runways:OPKC 07R-25L:extended centerline 1 left vectoring
+Runways:OPKC 07R-25L:extended centerline 1 right base
+Runways:OPKC 07R-25L:extended centerline 1 right ticks
+Runways:OPKC 07R-25L:extended centerline 1 right vectoring
+Runways:OPKC 07R-25L:extended centerline 2
+Runways:OPKC 07R-25L:extended centerline 2 left base
+Runways:OPKC 07R-25L:extended centerline 2 left ticks
+Runways:OPKC 07R-25L:extended centerline 2 left vectoring
+Runways:OPKC 07R-25L:extended centerline 2 right base
+Runways:OPKC 07R-25L:extended centerline 2 right ticks
+Runways:OPKC 07R-25L:extended centerline 2 right vectoring
+Runways:OPKC 07R-25L:name
+Runways:OPKD 02-20:centerline
+Runways:OPKD 02-20:extended centerline 1
+Runways:OPKD 02-20:extended centerline 1 left base
+Runways:OPKD 02-20:extended centerline 1 left ticks
+Runways:OPKD 02-20:extended centerline 1 left vectoring
+Runways:OPKD 02-20:extended centerline 1 right base
+Runways:OPKD 02-20:extended centerline 1 right ticks
+Runways:OPKD 02-20:extended centerline 1 right vectoring
+Runways:OPKD 02-20:extended centerline 2
+Runways:OPKD 02-20:extended centerline 2 left base
+Runways:OPKD 02-20:extended centerline 2 left ticks
+Runways:OPKD 02-20:extended centerline 2 left vectoring
+Runways:OPKD 02-20:extended centerline 2 right base
+Runways:OPKD 02-20:extended centerline 2 right ticks
+Runways:OPKD 02-20:extended centerline 2 right vectoring
+Runways:OPKD 02-20:name
+Runways:OPKH 12-30:centerline
+Runways:OPKH 12-30:extended centerline 1
+Runways:OPKH 12-30:extended centerline 1 left base
+Runways:OPKH 12-30:extended centerline 1 left ticks
+Runways:OPKH 12-30:extended centerline 1 left vectoring
+Runways:OPKH 12-30:extended centerline 1 right base
+Runways:OPKH 12-30:extended centerline 1 right ticks
+Runways:OPKH 12-30:extended centerline 1 right vectoring
+Runways:OPKH 12-30:extended centerline 2
+Runways:OPKH 12-30:extended centerline 2 left base
+Runways:OPKH 12-30:extended centerline 2 left ticks
+Runways:OPKH 12-30:extended centerline 2 left vectoring
+Runways:OPKH 12-30:extended centerline 2 right base
+Runways:OPKH 12-30:extended centerline 2 right ticks
+Runways:OPKH 12-30:extended centerline 2 right vectoring
+Runways:OPKH 12-30:name
+Runways:OPMJ 08-26:centerline
+Runways:OPMJ 08-26:extended centerline 1
+Runways:OPMJ 08-26:extended centerline 1 left base
+Runways:OPMJ 08-26:extended centerline 1 left ticks
+Runways:OPMJ 08-26:extended centerline 1 left vectoring
+Runways:OPMJ 08-26:extended centerline 1 right base
+Runways:OPMJ 08-26:extended centerline 1 right ticks
+Runways:OPMJ 08-26:extended centerline 1 right vectoring
+Runways:OPMJ 08-26:extended centerline 2
+Runways:OPMJ 08-26:extended centerline 2 left base
+Runways:OPMJ 08-26:extended centerline 2 left ticks
+Runways:OPMJ 08-26:extended centerline 2 left vectoring
+Runways:OPMJ 08-26:extended centerline 2 right base
+Runways:OPMJ 08-26:extended centerline 2 right ticks
+Runways:OPMJ 08-26:extended centerline 2 right vectoring
+Runways:OPMJ 08-26:name
+Runways:OPNH 02-20:centerline
+Runways:OPNH 02-20:extended centerline 1
+Runways:OPNH 02-20:extended centerline 1 left base
+Runways:OPNH 02-20:extended centerline 1 left ticks
+Runways:OPNH 02-20:extended centerline 1 left vectoring
+Runways:OPNH 02-20:extended centerline 1 right base
+Runways:OPNH 02-20:extended centerline 1 right ticks
+Runways:OPNH 02-20:extended centerline 1 right vectoring
+Runways:OPNH 02-20:extended centerline 2
+Runways:OPNH 02-20:extended centerline 2 left base
+Runways:OPNH 02-20:extended centerline 2 left ticks
+Runways:OPNH 02-20:extended centerline 2 left vectoring
+Runways:OPNH 02-20:extended centerline 2 right base
+Runways:OPNH 02-20:extended centerline 2 right ticks
+Runways:OPNH 02-20:extended centerline 2 right vectoring
+Runways:OPNH 02-20:name
+Runways:OPOR 06-24:centerline
+Runways:OPOR 06-24:extended centerline 1
+Runways:OPOR 06-24:extended centerline 1 left base
+Runways:OPOR 06-24:extended centerline 1 left ticks
+Runways:OPOR 06-24:extended centerline 1 left vectoring
+Runways:OPOR 06-24:extended centerline 1 right base
+Runways:OPOR 06-24:extended centerline 1 right ticks
+Runways:OPOR 06-24:extended centerline 1 right vectoring
+Runways:OPOR 06-24:extended centerline 2
+Runways:OPOR 06-24:extended centerline 2 left base
+Runways:OPOR 06-24:extended centerline 2 left ticks
+Runways:OPOR 06-24:extended centerline 2 left vectoring
+Runways:OPOR 06-24:extended centerline 2 right base
+Runways:OPOR 06-24:extended centerline 2 right ticks
+Runways:OPOR 06-24:extended centerline 2 right vectoring
+Runways:OPOR 06-24:name
+Runways:OPPG 13-31:centerline
+Runways:OPPG 13-31:extended centerline 1
+Runways:OPPG 13-31:extended centerline 1 left base
+Runways:OPPG 13-31:extended centerline 1 left ticks
+Runways:OPPG 13-31:extended centerline 1 left vectoring
+Runways:OPPG 13-31:extended centerline 1 right base
+Runways:OPPG 13-31:extended centerline 1 right ticks
+Runways:OPPG 13-31:extended centerline 1 right vectoring
+Runways:OPPG 13-31:extended centerline 2
+Runways:OPPG 13-31:extended centerline 2 left base
+Runways:OPPG 13-31:extended centerline 2 left ticks
+Runways:OPPG 13-31:extended centerline 2 left vectoring
+Runways:OPPG 13-31:extended centerline 2 right base
+Runways:OPPG 13-31:extended centerline 2 right ticks
+Runways:OPPG 13-31:extended centerline 2 right vectoring
+Runways:OPPG 13-31:name
+Runways:OPPI 06-24:centerline
+Runways:OPPI 06-24:extended centerline 1
+Runways:OPPI 06-24:extended centerline 1 left base
+Runways:OPPI 06-24:extended centerline 1 left ticks
+Runways:OPPI 06-24:extended centerline 1 left vectoring
+Runways:OPPI 06-24:extended centerline 1 right base
+Runways:OPPI 06-24:extended centerline 1 right ticks
+Runways:OPPI 06-24:extended centerline 1 right vectoring
+Runways:OPPI 06-24:extended centerline 2
+Runways:OPPI 06-24:extended centerline 2 left base
+Runways:OPPI 06-24:extended centerline 2 left ticks
+Runways:OPPI 06-24:extended centerline 2 left vectoring
+Runways:OPPI 06-24:extended centerline 2 right base
+Runways:OPPI 06-24:extended centerline 2 right ticks
+Runways:OPPI 06-24:extended centerline 2 right vectoring
+Runways:OPPI 06-24:name
+Runways:OPTU 08L-26R:centerline
+Runways:OPTU 08L-26R:extended centerline 1
+Runways:OPTU 08L-26R:extended centerline 1 left base
+Runways:OPTU 08L-26R:extended centerline 1 left ticks
+Runways:OPTU 08L-26R:extended centerline 1 left vectoring
+Runways:OPTU 08L-26R:extended centerline 1 right base
+Runways:OPTU 08L-26R:extended centerline 1 right ticks
+Runways:OPTU 08L-26R:extended centerline 1 right vectoring
+Runways:OPTU 08L-26R:extended centerline 2
+Runways:OPTU 08L-26R:extended centerline 2 left base
+Runways:OPTU 08L-26R:extended centerline 2 left ticks
+Runways:OPTU 08L-26R:extended centerline 2 left vectoring
+Runways:OPTU 08L-26R:extended centerline 2 right base
+Runways:OPTU 08L-26R:extended centerline 2 right ticks
+Runways:OPTU 08L-26R:extended centerline 2 right vectoring
+Runways:OPTU 08L-26R:name
+Stars:OPKC ILS25LY:
+Stars:OPKC ILS25LY KC20:
+Stars:OPKC ILS25LZ:
+Stars:OPKC LOC25LZ:
+Stars:OPKC RNP07L ANRIM:
+Stars:OPKC RNP07R:
+Stars:OPKC RNP07R ANRIM:
+Stars:OPKC RNP07R GUMIL:
+Stars:OPKC RNP07R KETIT:
+Stars:OPKC RNP07R MAKLI:
+Stars:OPKC RNP07R NOMUS:
+Stars:OPKC RNP07R VIRUK:
+Stars:OPKC RNP25L:
+Stars:OPKC RNP25L MAKLI:
+Stars:OPKC STAR 25L CHORE1B:
+Stars:OPKC STAR 25L DOSTI1D:
+Stars:OPKC STAR 25L DOSTI1E:
+Stars:OPKC STAR 25L LAKIV1B:
+Stars:OPKC STAR 25L LAKIV1C:
+Stars:OPKC STAR 25L NH1C:
+Stars:OPKC STAR 25L SAPNA1:
+Stars:OPKC STAR ALL DOSTI2B:
+Stars:OPKC STAR ALL DOSTI2C:
+Stars:OPKC STAR ALL KE1A:
+Stars:OPKC STAR ALL LAKIV2A:
+Stars:OPKC STAR ALL LOTAT2A:
+Stars:OPKC STAR ALL LOTAT2B:
+Stars:OPKC STAR ALL MINAR2:
+Stars:OPKC STAR ALL NH2A:
+Stars:OPKC STAR ALL NH2B:
+VORs:JI:symbol
+VORs:KC:symbol
+VORs:NH:symbol
+VORs:PG:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:20
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan
+WINDOWAREA:20.754145:54.883974:33.309278:79.475504

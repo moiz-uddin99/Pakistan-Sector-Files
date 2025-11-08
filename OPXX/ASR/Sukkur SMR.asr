@@ -1,0 +1,63 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPSK:name
+Airports:OPSK:symbol
+Free Text:OPSK Ground Freetext\1:freetext
+Free Text:OPSK Ground Freetext\2:freetext
+Free Text:OPSK Ground Freetext\3:freetext
+Free Text:OPSK Ground Freetext\A:freetext
+Free Text:OPSK Ground Freetext\A:freetext
+Free Text:OPSK Ground Freetext\B:freetext
+Free Text:OPSK Ground Freetext\BEGUM NUSRAT BHUTTO TERMINAL:freetext
+Free Text:OPSK Ground Freetext\C:freetext
+Free Text:OPSK Ground Freetext\C:freetext
+Free Text:OPSK Ground Freetext\C:freetext
+Free Text:OPSK Ground Freetext\C:freetext
+Free Text:OPSK Ground Freetext\OLD APRON:freetext
+Geo:OPSK Groundlayout Geo Data:
+Regions:OPSK Ground Polygons:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:309.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:27.715182:68.776324:27.731033:68.810813
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Pakistan vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OPSK
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1918
+PLUGIN:vSMR:SRW1BottomRightY:318
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-2
+PLUGIN:vSMR:SRW1OffsetY:-11
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1617
+PLUGIN:vSMR:SRW1TopLeftY:60
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,139 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPKC:name
+Airports:OPKC:symbol
+Free Text:OPKC Ground Freetext\11:freetext
+Free Text:OPKC Ground Freetext\12:freetext
+Free Text:OPKC Ground Freetext\13:freetext
+Free Text:OPKC Ground Freetext\14:freetext
+Free Text:OPKC Ground Freetext\15:freetext
+Free Text:OPKC Ground Freetext\16:freetext
+Free Text:OPKC Ground Freetext\17:freetext
+Free Text:OPKC Ground Freetext\18:freetext
+Free Text:OPKC Ground Freetext\21:freetext
+Free Text:OPKC Ground Freetext\22:freetext
+Free Text:OPKC Ground Freetext\23:freetext
+Free Text:OPKC Ground Freetext\24:freetext
+Free Text:OPKC Ground Freetext\25:freetext
+Free Text:OPKC Ground Freetext\26:freetext
+Free Text:OPKC Ground Freetext\27:freetext
+Free Text:OPKC Ground Freetext\28:freetext
+Free Text:OPKC Ground Freetext\51:freetext
+Free Text:OPKC Ground Freetext\52:freetext
+Free Text:OPKC Ground Freetext\53:freetext
+Free Text:OPKC Ground Freetext\54:freetext
+Free Text:OPKC Ground Freetext\55:freetext
+Free Text:OPKC Ground Freetext\56:freetext
+Free Text:OPKC Ground Freetext\57:freetext
+Free Text:OPKC Ground Freetext\58:freetext
+Free Text:OPKC Ground Freetext\59:freetext
+Free Text:OPKC Ground Freetext\60:freetext
+Free Text:OPKC Ground Freetext\61:freetext
+Free Text:OPKC Ground Freetext\62:freetext
+Free Text:OPKC Ground Freetext\63:freetext
+Free Text:OPKC Ground Freetext\64:freetext
+Free Text:OPKC Ground Freetext\65:freetext
+Free Text:OPKC Ground Freetext\66:freetext
+Free Text:OPKC Ground Freetext\67:freetext
+Free Text:OPKC Ground Freetext\68:freetext
+Free Text:OPKC Ground Freetext\68A:freetext
+Free Text:OPKC Ground Freetext\69:freetext
+Free Text:OPKC Ground Freetext\69A:freetext
+Free Text:OPKC Ground Freetext\70:freetext
+Free Text:OPKC Ground Freetext\70A:freetext
+Free Text:OPKC Ground Freetext\71:freetext
+Free Text:OPKC Ground Freetext\72:freetext
+Free Text:OPKC Ground Freetext\73:freetext
+Free Text:OPKC Ground Freetext\74A:freetext
+Free Text:OPKC Ground Freetext\74B:freetext
+Free Text:OPKC Ground Freetext\75A:freetext
+Free Text:OPKC Ground Freetext\75B:freetext
+Free Text:OPKC Ground Freetext\A:freetext
+Free Text:OPKC Ground Freetext\A:freetext
+Free Text:OPKC Ground Freetext\AIR CARGO:freetext
+Free Text:OPKC Ground Freetext\B:freetext
+Free Text:OPKC Ground Freetext\C:freetext
+Free Text:OPKC Ground Freetext\D:freetext
+Free Text:OPKC Ground Freetext\D:freetext
+Free Text:OPKC Ground Freetext\DOMESTIC:freetext
+Free Text:OPKC Ground Freetext\E:freetext
+Free Text:OPKC Ground Freetext\E:freetext
+Free Text:OPKC Ground Freetext\E:freetext
+Free Text:OPKC Ground Freetext\E:freetext
+Free Text:OPKC Ground Freetext\E:freetext
+Free Text:OPKC Ground Freetext\E:freetext
+Free Text:OPKC Ground Freetext\EASTERN APRON:freetext
+Free Text:OPKC Ground Freetext\F:freetext
+Free Text:OPKC Ground Freetext\F:freetext
+Free Text:OPKC Ground Freetext\G:freetext
+Free Text:OPKC Ground Freetext\G:freetext
+Free Text:OPKC Ground Freetext\H:freetext
+Free Text:OPKC Ground Freetext\INTERNATIONAL:freetext
+Free Text:OPKC Ground Freetext\J:freetext
+Free Text:OPKC Ground Freetext\J:freetext
+Free Text:OPKC Ground Freetext\J:freetext
+Free Text:OPKC Ground Freetext\JINNAH TERMINAL:freetext
+Free Text:OPKC Ground Freetext\K:freetext
+Free Text:OPKC Ground Freetext\K:freetext
+Free Text:OPKC Ground Freetext\M:freetext
+Free Text:OPKC Ground Freetext\N:freetext
+Free Text:OPKC Ground Freetext\N:freetext
+Free Text:OPKC Ground Freetext\NIGHT PARKING:freetext
+Free Text:OPKC Ground Freetext\P:freetext
+Free Text:OPKC Ground Freetext\PIA MAINTENANCE AREA:freetext
+Free Text:OPKC Ground Freetext\S:freetext
+Free Text:OPKC Ground Freetext\W-1:freetext
+Free Text:OPKC Ground Freetext\W-2:freetext
+Free Text:OPKC Ground Freetext\WESTERN APRON:freetext
+Geo:OPKC Groundlayout Geo Data:
+Geo:OPKC MRVA:
+Regions:OPKC Ground Polygons:polygon
+Regions:OPKR Karachi Waters:polygon
+VORs:KC:frequency
+VORs:KC:name
+VORs:KC:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:16.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:24.890878:67.134840:24.918391:67.188729
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Pakistan vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OPKC
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1918
+PLUGIN:vSMR:SRW1BottomRightY:318
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-2
+PLUGIN:vSMR:SRW1OffsetY:-11
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1617
+PLUGIN:vSMR:SRW1TopLeftY:60
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

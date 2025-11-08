@@ -1,0 +1,95 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPMT:name
+Airports:OPMT:symbol
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
+ARTCC low boundary:OPMT CTR:
+ARTCC low boundary:OPMT TMA:
+Fixes:DIBBA:name
+Fixes:DIBBA:symbol
+Fixes:HILAL:name
+Fixes:HILAL:symbol
+Fixes:KEVEM:name
+Fixes:KEVEM:symbol
+Fixes:LEDEL:name
+Fixes:LEDEL:symbol
+Fixes:MASKI:name
+Fixes:MASKI:symbol
+Fixes:MELUK:name
+Fixes:MELUK:symbol
+Fixes:MOLTA:name
+Fixes:MOLTA:symbol
+Fixes:MT371:name
+Fixes:MT371:symbol
+Fixes:MT372:name
+Fixes:MT372:symbol
+Fixes:MT373:name
+Fixes:MT373:symbol
+Fixes:MT375:name
+Fixes:MT375:symbol
+Fixes:MT401:name
+Fixes:MT401:symbol
+Fixes:MT431:name
+Fixes:MT431:symbol
+Fixes:MURLI:name
+Fixes:MURLI:symbol
+Fixes:OLSUM:name
+Fixes:OLSUM:symbol
+Fixes:RAJAN:name
+Fixes:RAJAN:symbol
+Fixes:RUTEV:name
+Fixes:RUTEV:symbol
+Fixes:TULRI:name
+Fixes:TULRI:symbol
+Fixes:ZAMBU:name
+Fixes:ZAMBU:symbol
+NDBs:MT:name
+NDBs:MT:symbol
+Runways:OPMT 18-36:centerline
+Runways:OPMT 18-36:extended centerline 1
+Runways:OPMT 18-36:extended centerline 1 left base
+Runways:OPMT 18-36:extended centerline 1 left ticks
+Runways:OPMT 18-36:extended centerline 1 left vectoring
+Runways:OPMT 18-36:extended centerline 1 right base
+Runways:OPMT 18-36:extended centerline 1 right ticks
+Runways:OPMT 18-36:extended centerline 1 right vectoring
+Runways:OPMT 18-36:extended centerline 2
+Runways:OPMT 18-36:extended centerline 2 left base
+Runways:OPMT 18-36:extended centerline 2 left ticks
+Runways:OPMT 18-36:extended centerline 2 left vectoring
+Runways:OPMT 18-36:extended centerline 2 right base
+Runways:OPMT 18-36:extended centerline 2 right ticks
+Runways:OPMT 18-36:extended centerline 2 right vectoring
+Runways:OPMT 18-36:name
+Stars:OPMT RNP18 RUTEV:
+Stars:OPMT RNP36:
+Stars:OPMT STAR 18 DIBBA1A:
+Stars:OPMT STAR 18 KASBI1A:
+Stars:OPMT STAR 18 MELUK1A:
+Stars:OPMT STAR 18 OLSUM1A:
+Stars:OPMT STAR 36 DIBBA1B:
+Stars:OPMT STAR 36 KASBI1B:
+Stars:OPMT STAR 36 MELUK1B:
+Stars:OPMT STAR 36 OLSUM1B:
+VORs:MT:frequency
+VORs:MT:name
+VORs:MT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:29.012149:69.397085:31.118550:73.522859

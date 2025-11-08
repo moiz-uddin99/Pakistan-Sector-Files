@@ -1,0 +1,121 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPIS:name
+Airports:OPIS:symbol
+Free Text:OPIS Ground Freetext\1:freetext
+Free Text:OPIS Ground Freetext\10:freetext
+Free Text:OPIS Ground Freetext\11:freetext
+Free Text:OPIS Ground Freetext\12:freetext
+Free Text:OPIS Ground Freetext\13:freetext
+Free Text:OPIS Ground Freetext\14:freetext
+Free Text:OPIS Ground Freetext\15:freetext
+Free Text:OPIS Ground Freetext\16:freetext
+Free Text:OPIS Ground Freetext\17:freetext
+Free Text:OPIS Ground Freetext\18:freetext
+Free Text:OPIS Ground Freetext\19:freetext
+Free Text:OPIS Ground Freetext\2:freetext
+Free Text:OPIS Ground Freetext\20:freetext
+Free Text:OPIS Ground Freetext\21:freetext
+Free Text:OPIS Ground Freetext\22:freetext
+Free Text:OPIS Ground Freetext\23:freetext
+Free Text:OPIS Ground Freetext\24:freetext
+Free Text:OPIS Ground Freetext\25:freetext
+Free Text:OPIS Ground Freetext\26:freetext
+Free Text:OPIS Ground Freetext\27:freetext
+Free Text:OPIS Ground Freetext\28:freetext
+Free Text:OPIS Ground Freetext\29:freetext
+Free Text:OPIS Ground Freetext\3:freetext
+Free Text:OPIS Ground Freetext\30:freetext
+Free Text:OPIS Ground Freetext\31:freetext
+Free Text:OPIS Ground Freetext\32:freetext
+Free Text:OPIS Ground Freetext\33:freetext
+Free Text:OPIS Ground Freetext\4:freetext
+Free Text:OPIS Ground Freetext\5:freetext
+Free Text:OPIS Ground Freetext\6:freetext
+Free Text:OPIS Ground Freetext\7:freetext
+Free Text:OPIS Ground Freetext\8:freetext
+Free Text:OPIS Ground Freetext\9:freetext
+Free Text:OPIS Ground Freetext\A:freetext
+Free Text:OPIS Ground Freetext\A:freetext
+Free Text:OPIS Ground Freetext\B:freetext
+Free Text:OPIS Ground Freetext\C:freetext
+Free Text:OPIS Ground Freetext\C:freetext
+Free Text:OPIS Ground Freetext\C:freetext
+Free Text:OPIS Ground Freetext\CARGO TERMINAL:freetext
+Free Text:OPIS Ground Freetext\D:freetext
+Free Text:OPIS Ground Freetext\E:freetext
+Free Text:OPIS Ground Freetext\F:freetext
+Free Text:OPIS Ground Freetext\F:freetext
+Free Text:OPIS Ground Freetext\F:freetext
+Free Text:OPIS Ground Freetext\G:freetext
+Free Text:OPIS Ground Freetext\G:freetext
+Free Text:OPIS Ground Freetext\G:freetext
+Free Text:OPIS Ground Freetext\G:freetext
+Free Text:OPIS Ground Freetext\GA APRON:freetext
+Free Text:OPIS Ground Freetext\H:freetext
+Free Text:OPIS Ground Freetext\H:freetext
+Free Text:OPIS Ground Freetext\J:freetext
+Free Text:OPIS Ground Freetext\J:freetext
+Free Text:OPIS Ground Freetext\K:freetext
+Free Text:OPIS Ground Freetext\K:freetext
+Free Text:OPIS Ground Freetext\K:freetext
+Free Text:OPIS Ground Freetext\L:freetext
+Free Text:OPIS Ground Freetext\M:freetext
+Free Text:OPIS Ground Freetext\N:freetext
+Free Text:OPIS Ground Freetext\NORTH WEST APRON:freetext
+Free Text:OPIS Ground Freetext\P:freetext
+Free Text:OPIS Ground Freetext\Q:freetext
+Free Text:OPIS Ground Freetext\R:freetext
+Free Text:OPIS Ground Freetext\S:freetext
+Free Text:OPIS Ground Freetext\SOUTH EAST APRON:freetext
+Free Text:OPIS Ground Freetext\STATE LOUNGE APRON:freetext
+Free Text:OPIS Ground Freetext\T:freetext
+Free Text:OPIS Ground Freetext\T:freetext
+Free Text:OPIS Ground Freetext\TERMINAL BUILDING:freetext
+Geo:OPIS Groundlayout Geo Data:
+Regions:OPIS Ground Polygons:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:350.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:33.538335:72.800704:33.565848:72.854593
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Pakistan vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OPIS
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1918
+PLUGIN:vSMR:SRW1BottomRightY:318
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-2
+PLUGIN:vSMR:SRW1OffsetY:-11
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1617
+PLUGIN:vSMR:SRW1TopLeftY:60
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

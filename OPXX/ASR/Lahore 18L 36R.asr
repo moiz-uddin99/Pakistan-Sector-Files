@@ -1,0 +1,31 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC low boundary:OPLA CTR:
+Runways:OPLA 18L-36R:centerline
+Runways:OPLA 18L-36R:extended centerline 1
+Runways:OPLA 18L-36R:extended centerline 1 left ticks
+Runways:OPLA 18L-36R:extended centerline 1 right ticks
+Runways:OPLA 18L-36R:extended centerline 2
+Runways:OPLA 18L-36R:extended centerline 2 left ticks
+Runways:OPLA 18L-36R:extended centerline 2 right ticks
+Runways:OPLA 18L-36R:name
+VORs:LA:frequency
+VORs:LA:name
+VORs:LA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:90.00000
+TAGFAMILY:TopSky_Pakistan_TWR
+WINDOWAREA:31.324982:73.991974:31.714301:74.839070

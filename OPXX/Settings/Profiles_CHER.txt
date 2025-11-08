@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:<Initials>_OBS:200:0
+ATIS2:Pakistan vACC Observer
+ATIS3:
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:CHR_APP:150:5
+ATIS2:"Cherat Approach" 
+ATIS3:Covering Cherat North and South TMA up to FL195 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:CHR-N_APP:150:5
+ATIS2:"Cherat Approach" 
+ATIS3:Covering Cherat TMA North up to FL195 | Report callsign, aircraft, and position on initial contact 
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:CHR-S_APP:150:5
+ATIS2:"Cherat Approach" 
+ATIS3:Covering Cherat TMA South up to FL195 | Report callsign, aircraft, and position on initial contact
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback
+PROFILE:Select_Callsign_Here------>:50:0
+ATIS2:Select Your Callsign From The Dropdown Menu.
+ATIS3:DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
+ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatwa.net/feedback 
+END

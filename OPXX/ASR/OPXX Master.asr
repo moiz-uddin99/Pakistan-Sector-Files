@@ -1,0 +1,234 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:OPBN:name
+Airports:OPBW:name
+Airports:OPCH:name
+Airports:OPCL:name
+Airports:OPDB:name
+Airports:OPFA:name
+Airports:OPGD:name
+Airports:OPGT:name
+Airports:OPIS:name
+Airports:OPJI:name
+Airports:OPKC:name
+Airports:OPKD:name
+Airports:OPKH:name
+Airports:OPLA:name
+Airports:OPLH:name
+Airports:OPMF:name
+Airports:OPMJ:name
+Airports:OPMT:name
+Airports:OPNH:name
+Airports:OPOR:name
+Airports:OPPC:name
+Airports:OPPG:name
+Airports:OPPI:name
+Airports:OPPS:name
+Airports:OPQT:name
+Airports:OPRK:name
+Airports:OPRN:name
+Airports:OPRT:name
+Airports:OPSD:name
+Airports:OPSK:name
+Airports:OPSS:name
+Airports:OPST:name
+Airports:OPSW:name
+Airports:OPTA:name
+Airports:OPTU:name
+Airports:OPZB:name
+ARTCC boundary:ISB ACC:
+ARTCC boundary:OPKR C ACC:
+ARTCC boundary:OPKR E ACC:
+ARTCC boundary:OPKR S ACC:
+ARTCC boundary:OPKR W ACC:
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
+Free Text:OPKR Neighbouring FIR\OIIX (Tehran):freetext
+Free Text:OPKR Neighbouring FIR\OOMM (Muscat):freetext
+Free Text:OPKR Neighbouring FIR\VABF (Mumbai):freetext
+Free Text:OPLR Neighbouring FIR\OAKX (Kabul):freetext
+Free Text:OPLR Neighbouring FIR\VIDF (Delhi):freetext
+Free Text:OPLR Neighbouring FIR\ZWUQ (Urumqi):freetext
+Geo:OPKR Landmark Coastline:
+High airways:A325:line
+High airways:A454:line
+High airways:A455:line
+High airways:A456:line
+High airways:A472:line
+High airways:A791:line
+High airways:B210:line
+High airways:B215:line
+High airways:B342:line
+High airways:B466:line
+High airways:B505:line
+High airways:B524:line
+High airways:CRP01:line
+High airways:CRP02:line
+High airways:CRP03:line
+High airways:CRP04:line
+High airways:CRP05:line
+High airways:CRP06:line
+High airways:CRP07:line
+High airways:CRP08:line
+High airways:CRP09:line
+High airways:CRP10:line
+High airways:CRP11:line
+High airways:CRP12:line
+High airways:CRP13:line
+High airways:CRP14:line
+High airways:CRP15:line
+High airways:CRP16:line
+High airways:CRP17:line
+High airways:CRP18:line
+High airways:CRP19:line
+High airways:CRP20:line
+High airways:CRP21:line
+High airways:CRP22:line
+High airways:CRP23:line
+High airways:CRP24:line
+High airways:G201:line
+High airways:G202:line
+High airways:G206:line
+High airways:G208:line
+High airways:G210:line
+High airways:G214:line
+High airways:G216:line
+High airways:G325:line
+High airways:G326:line
+High airways:G333:line
+High airways:G451:line
+High airways:G452:line
+High airways:G472:line
+High airways:G652:line
+High airways:G665:line
+High airways:G796:line
+High airways:J1:line
+High airways:J111:line
+High airways:J112:line
+High airways:J113:line
+High airways:J115:line
+High airways:J116:line
+High airways:J117:line
+High airways:J118:line
+High airways:J119:line
+High airways:J120:line
+High airways:J121:line
+High airways:J122:line
+High airways:J124:line
+High airways:J125:line
+High airways:J126:line
+High airways:J129:line
+High airways:J130:line
+High airways:J131:line
+High airways:J132:line
+High airways:J133:line
+High airways:J134:line
+High airways:J137:line
+High airways:J138:line
+High airways:J139:line
+High airways:J140:line
+High airways:J141:line
+High airways:J142:line
+High airways:J143:line
+High airways:J144:line
+High airways:J145:line
+High airways:J146:line
+High airways:J147:line
+High airways:J148:line
+High airways:J149:line
+High airways:J150:line
+High airways:J151:line
+High airways:J152:line
+High airways:J153:line
+High airways:J154:line
+High airways:J155:line
+High airways:J156:line
+High airways:J164:line
+High airways:J165:line
+High airways:J166:line
+High airways:J167:line
+High airways:J168:line
+High airways:J169:line
+High airways:J170:line
+High airways:J171:line
+High airways:J172:line
+High airways:J173:line
+High airways:J174:line
+High airways:J176:line
+High airways:J177:line
+High airways:J179:line
+High airways:J183:line
+High airways:J184:line
+High airways:J185:line
+High airways:J186:line
+High airways:J212:line
+High airways:J215:line
+High airways:J218:line
+High airways:J219:line
+High airways:J220:line
+High airways:J221:line
+High airways:L125:line
+High airways:L333:line
+High airways:L626:line
+High airways:M504:line
+High airways:M561:line
+High airways:M638:line
+High airways:M881:line
+High airways:N312:line
+High airways:N519:line
+High airways:N893:line
+High airways:N894:line
+High airways:N895:line
+High airways:P500:line
+High airways:P518:line
+High airways:P628:line
+High airways:P757:line
+High airways:R462:line
+High airways:R471:line
+High airways:R594:line
+High airways:R654:line
+High airways:T215:line
+High airways:T385:line
+High airways:T400:line
+High airways:UL124:line
+High airways:UL125:line
+High airways:UN319:line
+High airways:Z301:line
+High airways:Z302:line
+High airways:Z303:line
+High airways:Z304:line
+High airways:Z305:line
+High airways:Z306:line
+High airways:Z307:line
+VORs:BTR:symbol
+VORs:DI:symbol
+VORs:JI:symbol
+VORs:KC:symbol
+VORs:LA:symbol
+VORs:MT:symbol
+VORs:NH:symbol
+VORs:PG:symbol
+VORs:PS:symbol
+VORs:QT:symbol
+VORs:RK:symbol
+VORs:RN:symbol
+VORs:SLT:symbol
+VORs:ZB:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:20
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:20.325907:46.679292:40.818434:91.267707

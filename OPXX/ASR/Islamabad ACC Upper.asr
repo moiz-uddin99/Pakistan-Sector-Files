@@ -1,0 +1,191 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:ISB ACC:
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR W ACC:
+Fixes:AKTIX:symbol
+Fixes:ATROL:symbol
+Fixes:BABEV:symbol
+Fixes:BAVRO:symbol
+Fixes:BINIG:symbol
+Fixes:BIREB:symbol
+Fixes:BUNGI:symbol
+Fixes:DARIS:symbol
+Fixes:DELDA:symbol
+Fixes:DOBMI:symbol
+Fixes:DUGIN:symbol
+Fixes:FATEH:symbol
+Fixes:GERRY:symbol
+Fixes:HANGU:symbol
+Fixes:IMTIL:symbol
+Fixes:INDEK:symbol
+Fixes:KAGLO:symbol
+Fixes:KAKNA:symbol
+Fixes:KALMI:symbol
+Fixes:LAJAK:symbol
+Fixes:LAKRA:symbol
+Fixes:LERNO:symbol
+Fixes:MAZAB:symbol
+Fixes:MEXIN:symbol
+Fixes:MIALI:symbol
+Fixes:MILOT:symbol
+Fixes:MOTMO:symbol
+Fixes:MOXIT:symbol
+Fixes:NONIB:symbol
+Fixes:OLVIB:symbol
+Fixes:PAKPI:symbol
+Fixes:PAKTA:symbol
+Fixes:PURPA:symbol
+Fixes:REVNO:symbol
+Fixes:SAKIP:symbol
+Fixes:SAMEX:symbol
+Fixes:SASVI:symbol
+Fixes:SIRAJ:symbol
+Fixes:TANED:symbol
+Fixes:TULVA:symbol
+Fixes:VEBTA:symbol
+Free Text:OPLR Neighbouring FIR\OAKX (Kabul):freetext
+Free Text:OPLR Neighbouring FIR\VIDF (Delhi):freetext
+Free Text:OPLR Neighbouring FIR\ZWUQ (Urumqi):freetext
+Geo:OPKR Landmark Coastline:
+High airways:A455:line
+High airways:A456:line
+High airways:A472:line
+High airways:B215:line
+High airways:B466:line
+High airways:B505:line
+High airways:CRP03:line
+High airways:CRP04:line
+High airways:CRP05:line
+High airways:CRP06:line
+High airways:CRP07:line
+High airways:CRP08:line
+High airways:CRP09:line
+High airways:CRP10:line
+High airways:CRP11:line
+High airways:CRP12:line
+High airways:CRP14:line
+High airways:CRP15:line
+High airways:CRP16:line
+High airways:CRP17:line
+High airways:CRP18:line
+High airways:CRP19:line
+High airways:CRP20:line
+High airways:CRP21:line
+High airways:CRP22:line
+High airways:CRP23:line
+High airways:CRP24:line
+High airways:G201:line
+High airways:G202:line
+High airways:G206:line
+High airways:G208:line
+High airways:G210:line
+High airways:G214:line
+High airways:G325:line
+High airways:G326:line
+High airways:G333:line
+High airways:G452:line
+High airways:G665:line
+High airways:G796:line
+High airways:J112:line
+High airways:J113:line
+High airways:J115:line
+High airways:J116:line
+High airways:J118:line
+High airways:J119:line
+High airways:J121:line
+High airways:J122:line
+High airways:J124:line
+High airways:J125:line
+High airways:J126:line
+High airways:J129:line
+High airways:J130:line
+High airways:J131:line
+High airways:J132:line
+High airways:J133:line
+High airways:J134:line
+High airways:J137:line
+High airways:J138:line
+High airways:J139:line
+High airways:J140:line
+High airways:J141:line
+High airways:J142:line
+High airways:J143:line
+High airways:J144:line
+High airways:J145:line
+High airways:J146:line
+High airways:J147:line
+High airways:J148:line
+High airways:J149:line
+High airways:J150:line
+High airways:J151:line
+High airways:J152:line
+High airways:J153:line
+High airways:J154:line
+High airways:J155:line
+High airways:J156:line
+High airways:J164:line
+High airways:J165:line
+High airways:J166:line
+High airways:J171:line
+High airways:J172:line
+High airways:J173:line
+High airways:J174:line
+High airways:J176:line
+High airways:J177:line
+High airways:J179:line
+High airways:J183:line
+High airways:J184:line
+High airways:J186:line
+High airways:J212:line
+High airways:J215:line
+High airways:J219:line
+High airways:J220:line
+High airways:J221:line
+High airways:L125:line
+High airways:L333:line
+High airways:L626:line
+High airways:M561:line
+High airways:M638:line
+High airways:M881:line
+High airways:N312:line
+High airways:P500:line
+High airways:P518:line
+High airways:P628:line
+High airways:P757:line
+High airways:R462:line
+High airways:R471:line
+High airways:R594:line
+High airways:T215:line
+High airways:T385:line
+High airways:T400:line
+High airways:UL124:line
+High airways:UL125:line
+High airways:UN319:line
+High airways:Z301:line
+High airways:Z302:line
+High airways:Z303:line
+High airways:Z304:line
+High airways:Z305:line
+High airways:Z306:line
+High airways:Z307:line
+VORs:BTR:symbol
+VORs:PS:symbol
+VORs:RN:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:10000
+ABOVE:0
+LEADER:20
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Pakistan
+WINDOWAREA:31.951749:66.745061:38.123415:80.173605
