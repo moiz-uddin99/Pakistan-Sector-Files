@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\Pakistan-Sector-Files-Test\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 Airports:OPKC:name
 Airports:OPKC:symbol
 Free Text:OPKC Ground Freetext\11:freetext
@@ -52,34 +52,21 @@ Free Text:OPKC Ground Freetext\74B:freetext
 Free Text:OPKC Ground Freetext\75A:freetext
 Free Text:OPKC Ground Freetext\75B:freetext
 Free Text:OPKC Ground Freetext\A:freetext
-Free Text:OPKC Ground Freetext\A:freetext
 Free Text:OPKC Ground Freetext\AIR CARGO:freetext
 Free Text:OPKC Ground Freetext\B:freetext
 Free Text:OPKC Ground Freetext\C:freetext
 Free Text:OPKC Ground Freetext\D:freetext
-Free Text:OPKC Ground Freetext\D:freetext
 Free Text:OPKC Ground Freetext\DOMESTIC:freetext
-Free Text:OPKC Ground Freetext\E:freetext
-Free Text:OPKC Ground Freetext\E:freetext
-Free Text:OPKC Ground Freetext\E:freetext
-Free Text:OPKC Ground Freetext\E:freetext
-Free Text:OPKC Ground Freetext\E:freetext
 Free Text:OPKC Ground Freetext\E:freetext
 Free Text:OPKC Ground Freetext\EASTERN APRON:freetext
 Free Text:OPKC Ground Freetext\F:freetext
-Free Text:OPKC Ground Freetext\F:freetext
-Free Text:OPKC Ground Freetext\G:freetext
 Free Text:OPKC Ground Freetext\G:freetext
 Free Text:OPKC Ground Freetext\H:freetext
 Free Text:OPKC Ground Freetext\INTERNATIONAL:freetext
 Free Text:OPKC Ground Freetext\J:freetext
-Free Text:OPKC Ground Freetext\J:freetext
-Free Text:OPKC Ground Freetext\J:freetext
 Free Text:OPKC Ground Freetext\JINNAH TERMINAL:freetext
 Free Text:OPKC Ground Freetext\K:freetext
-Free Text:OPKC Ground Freetext\K:freetext
 Free Text:OPKC Ground Freetext\M:freetext
-Free Text:OPKC Ground Freetext\N:freetext
 Free Text:OPKC Ground Freetext\N:freetext
 Free Text:OPKC Ground Freetext\NIGHT PARKING:freetext
 Free Text:OPKC Ground Freetext\P:freetext
@@ -108,7 +95,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:16.00000
 TAGFAMILY:TopSky_Pakistan_TWR
-WINDOWAREA:24.890878:67.134840:24.918391:67.188729
+WINDOWAREA:24.885175:67.114296:24.928164:67.206949
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Pakistan vACC
 PLUGIN:vSMR:Afterglow:1

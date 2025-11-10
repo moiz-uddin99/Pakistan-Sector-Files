@@ -1,14 +1,13 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\Pakistan-Sector-Files-Test\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 ARTCC low boundary:OPKC CTA:
 ARTCC low boundary:OPKC TWR:
 Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
-Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
 Geo:OPKC MRVA:
@@ -36,4 +35,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan_TWR
-WINDOWAREA:24.694306:66.700912:25.144818:67.681153
+WINDOWAREA:23.259703:63.480304:27.495462:72.609510
