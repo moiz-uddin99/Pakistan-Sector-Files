@@ -1,5 +1,5 @@
 // File created for the Pakistan vACC - OPXX
-// Developed by Moiz Uddin (1758952)
+// Developed and maintained by Pakistan vACC
 //
 // Last Change by Moiz Uddin
 //
@@ -26,7 +26,7 @@ Color_RunwayExtension=72,73,75
 Window_APP_Scale=18
 Window_APP_AltFilter=6000
 Window_APP_Extensions=10
-Window_APP=1,1429,42,490,457
+Window_APP=1,1
 
 Maps_FontSize=10
 GroundLabel_Font=EuroScope
@@ -132,20 +132,21 @@ System_CMAC_NoContact_Distance_Info=3.0
 
 AppPath=OPKC:07R:N024.54.02.150:E067.08.33.560:74:R:8:3.0
 AppPath=OPKC:25L:N024.54.31.790:E067.10.30.200:254:L:8:3.0
-AppPath=OPKC:07L:N024.54.16.900:E067.08.51.020:74:L:8:3.0
-AppPath=OPKC:25R:N024.54.44.690:E067.10.40.840:254:R:8:3.0
+AppPath=OPKC:07L:N024.54.16.900:E067.08.51.020:74:R:8:3.0
+AppPath=OPKC:25R:N024.54.44.690:E067.10.40.840:254:L:8:3.0
 
 
-Window_APP=1
 Window_APP_Scale=15
-Window_APP=1,1720,074,254,600
-Window_APP_Extensions=0
-Window_APP_AltFilter=4500
-Window_APP_Rotation=57
+Window_APP_AltFilter=4000
+Window_APP_Rotation=106
 Window_APW=07R,2/07R
 Window_APW=25L,2/25L
 Window_APW=07L,2/07L
 Window_APW=25R,2/25R
+Window_WindRose=07R,2
+Window_WindRose=25L,2
+Window_WindRose=07L,2
+Window_WindRose=25R,2
 Airport_Dep_Transfer_Height=1000
 Airport_Dep_Transfer_Dist=2
 
