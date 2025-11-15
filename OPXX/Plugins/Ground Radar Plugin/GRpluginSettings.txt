@@ -1,5 +1,5 @@
-// File created for the Khaleej vACC - Bahrain FIR (OBBB)
-// Developed and maintained by Moiz Uddin (1758952)
+// File created for the Pakistan vACC - OPXX
+// Developed by Moiz Uddin (1758952)
 //
 // Last Change by Moiz Uddin
 //
@@ -118,28 +118,34 @@ List_Departure_Items=30
 
 Window_APW_DefPos=1350,45
 
-[OBBI]
-Airport_Elevation=8
+[OPKC]
+Airport_Elevation=100
 Airport_Radius=1.5
-Airport_Runway_Buffer_LVP=30R:145
-Airport_Runway_Buffer_LVP=12L:145
+Airport_Runway_Buffer_LVP=07L:175
+Airport_Runway_Buffer_LVP=25R:175
+Airport_Runway_Buffer_LVP=07R:175
+Airport_Runway_Buffer_LVP=25L:175
 
 System_CMAC_HighSpeed_Info=35
 System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
 
-AppPath=OBBI:30R:N026.15.55.160:E050.38.44.830:300:L:8:3.0
-AppPath=OBBI:12L:N026.16.42.070:E050.37.22.580:120:R:8:3.0
+AppPath=OPKC:07R:N024.54.02.150:E067.08.33.560:74:R:8:3.0
+AppPath=OPKC:25L:N024.54.31.790:E067.10.30.200:254:L:8:3.0
+AppPath=OPKC:07L:N024.54.16.900:E067.08.51.020:74:L:8:3.0
+AppPath=OPKC:25R:N024.54.44.690:E067.10.40.840:254:R:8:3.0
 
 
 Window_APP=1
 Window_APP_Scale=15
-Window_APP=1,1720,120,300,600
+Window_APP=1,1720,074,254,600
 Window_APP_Extensions=0
 Window_APP_AltFilter=4500
 Window_APP_Rotation=57
-Window_APW=30R,2/30R
-Window_APW=12L,2/12L
+Window_APW=07R,2/07R
+Window_APW=25L,2/25L
+Window_APW=07L,2/07L
+Window_APW=25R,2/25R
 Airport_Dep_Transfer_Height=1000
 Airport_Dep_Transfer_Dist=2
 
